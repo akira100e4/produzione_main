@@ -1,0 +1,294 @@
+{
+  "search_timestamp": 1758738695.2909691,
+  "product_info": {
+    "id": 809,
+    "name": "Fisherman Beanie | AS Colour 1120",
+    "brand": "AS Colour",
+    "model": "1120",
+    "type": "EMBROIDERY",
+    "type_name": "Hat",
+    "image": "https://files.cdn.printful.com/o/upload/product-catalog-img/45/45d69d6b19037f3bdb5aac0aa3c7e560_l",
+    "currency": "EUR",
+    "variant_count": 8
+  },
+  "variants": [
+    {
+      "variant_id": 20543,
+      "name": "Fisherman Beanie | AS Colour 1120 (Athletic Heather)",
+      "size": null,
+      "color": "Athletic Heather",
+      "color_code": "#e1dad7",
+      "price": "14.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/809/20543_1726493260.jpg",
+      "availability_status": [
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "US": "United States"
+      },
+      "product_id": 809
+    },
+    {
+      "variant_id": 20487,
+      "name": "Fisherman Beanie | AS Colour 1120 (Black)",
+      "size": null,
+      "color": "Black",
+      "color_code": "#000000",
+      "price": "14.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/809/20487_1726493260.jpg",
+      "availability_status": [
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "US": "United States"
+      },
+      "product_id": 809
+    },
+    {
+      "variant_id": 20491,
+      "name": "Fisherman Beanie | AS Colour 1120 (Cypress)",
+      "size": null,
+      "color": "Cypress",
+      "color_code": "#455237",
+      "price": "14.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/809/20491_1726493261.jpg",
+      "availability_status": [
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "US": "United States"
+      },
+      "product_id": 809
+    },
+    {
+      "variant_id": 20490,
+      "name": "Fisherman Beanie | AS Colour 1120 (Ecru)",
+      "size": null,
+      "color": "Ecru",
+      "color_code": "#fff2d9",
+      "price": "14.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/809/20490_1726493270.jpg",
+      "availability_status": [
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "US": "United States"
+      },
+      "product_id": 809
+    },
+    {
+      "variant_id": 20493,
+      "name": "Fisherman Beanie | AS Colour 1120 (Gold)",
+      "size": null,
+      "color": "Gold",
+      "color_code": "#ff9900",
+      "price": "14.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/809/20493_1726493270.jpg",
+      "availability_status": [
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "US": "United States"
+      },
+      "product_id": 809
+    },
+    {
+      "variant_id": 20488,
+      "name": "Fisherman Beanie | AS Colour 1120 (Petrol Blue)",
+      "size": null,
+      "color": "Petrol Blue",
+      "color_code": "#273e42",
+      "price": "14.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/809/20488_1726493281.jpg",
+      "availability_status": [
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "US": "United States"
+      },
+      "product_id": 809
+    },
+    {
+      "variant_id": 20492,
+      "name": "Fisherman Beanie | AS Colour 1120 (Red)",
+      "size": null,
+      "color": "Red",
+      "color_code": "#f0120e",
+      "price": "14.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/809/20492_1726493281.jpg",
+      "availability_status": [
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "US": "United States"
+      },
+      "product_id": 809
+    },
+    {
+      "variant_id": 20489,
+      "name": "Fisherman Beanie | AS Colour 1120 (Walnut)",
+      "size": null,
+      "color": "Walnut",
+      "color_code": "#59392b",
+      "price": "14.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/809/20489_1726493281.jpg",
+      "availability_status": [
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "US": "United States"
+      },
+      "product_id": 809
+    }
+  ],
+  "file_info": {
+    "available_placements": {
+      "embroidery_front": "Front"
+    },
+    "print_files": [
+      {
+        "printfile_id": 74,
+        "width": 1500,
+        "height": 525,
+        "dpi": 300,
+        "fill_mode": "fit",
+        "can_rotate": false
+      }
+    ],
+    "techniques": [
+      {
+        "key": "EMBROIDERY",
+        "display_name": "Embroidery",
+        "is_default": true
+      }
+    ],
+    "embroidery_info": {
+      "available_placements": {
+        "embroidery_front": "Front"
+      },
+      "print_files": [
+        {
+          "printfile_id": 74,
+          "width": 1500,
+          "height": 525,
+          "dpi": 300,
+          "fill_mode": "fit",
+          "can_rotate": false
+        }
+      ]
+    }
+  },
+  "total_variants": 8
+}

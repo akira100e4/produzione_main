@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "product_id": null,
+  "sync_product": {},
+  "sync_variants": [],
+  "variant_created": {
+    "variant_id": 20550,
+    "size": "L",
+    "color": "Ash",
+    "price": 19.5,
+    "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Ash / L)",
+    "color_code": "#dedede",
+    "currency": null,
+    "image": "https://files.cdn.printful.com/products/146/20544_1750160842.jpg",
+    "availability_status": [
+      {
+        "region": "US",
+        "status": "in_stock"
+      }
+    ],
+    "availability_regions": {
+      "US": "United States"
+    },
+    "product_id": 146
+  },
+  "urls": {
+    "design_url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984590/onlyone_Farfalla%20Cosmica_1758984589.png",
+    "logo_url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984592/onlyone_universal_logo_1758984591.png",
+    "upscaled_url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984595/transparent_Farfalla%20Cosmica_1758984593.png"
+  }
+}

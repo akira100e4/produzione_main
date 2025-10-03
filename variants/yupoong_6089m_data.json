@@ -1,0 +1,1019 @@
+{
+  "search_timestamp": 1758738479.508631,
+  "product_info": {
+    "id": 99,
+    "name": "Classic Snapback | Yupoong 6089M",
+    "brand": "Yupoong",
+    "model": "Yupoong 6089M Wool Blend Snapback",
+    "type": "EMBROIDERY",
+    "type_name": "Hat",
+    "image": "https://files.cdn.printful.com/o/products/99/product_1586152798.jpg",
+    "currency": "EUR",
+    "variant_count": 21
+  },
+  "variants": [
+    {
+      "variant_id": 4792,
+      "name": "Yupoong 6089M Wool Blend Snapback (Black)",
+      "size": "One size",
+      "color": "Black",
+      "color_code": "#2a2a2a",
+      "price": "12.49",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/99/4792_1586154802.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 99
+    },
+    {
+      "variant_id": 7843,
+      "name": "Yupoong 6089M Wool Blend Snapback (Black/ Neon Pink)",
+      "size": "One size",
+      "color": "Black/ Neon Pink",
+      "color_code": "#2a2a2a",
+      "price": "12.49",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/99/7843_1586153432.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 99
+    },
+    {
+      "variant_id": 4794,
+      "name": "Yupoong 6089M Wool Blend Snapback (Black/ Red)",
+      "size": "One size",
+      "color": "Black/ Red",
+      "color_code": "#2a2a2a",
+      "price": "12.49",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/99/4794_1586153455.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 99
+    },
+    {
+      "variant_id": 4795,
+      "name": "Yupoong 6089M Wool Blend Snapback (Black/ Silver)",
+      "size": "One size",
+      "color": "Black/ Silver",
+      "color_code": "#2a2a2a",
+      "price": "12.49",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/99/4795_1586153478.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 99
+    },
+    {
+      "variant_id": 4796,
+      "name": "Yupoong 6089M Wool Blend Snapback (Black/ Teal)",
+      "size": "One size",
+      "color": "Black/ Teal",
+      "color_code": "#2a2a2a",
+      "price": "12.49",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/99/4796_1586153589.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 99
+    },
+    {
+      "variant_id": 4797,
+      "name": "Yupoong 6089M Wool Blend Snapback (Dark Grey)",
+      "size": "One size",
+      "color": "Dark Grey",
+      "color_code": "#666061",
+      "price": "12.49",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/99/4797_1586154846.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 99
+    },
+    {
+      "variant_id": 4798,
+      "name": "Yupoong 6089M Wool Blend Snapback (Dark Navy)",
+      "size": "One size",
+      "color": "Dark Navy",
+      "color_code": "#15293a",
+      "price": "12.49",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/99/4798_1586154944.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 99
+    },
+    {
+      "variant_id": 7835,
+      "name": "Yupoong 6089M Wool Blend Snapback (Green Camo)",
+      "size": "One size",
+      "color": "Green Camo",
+      "color_code": "#4d573e",
+      "price": "12.49",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/99/7835_1693822092.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 99
+    },
+    {
+      "variant_id": 7836,
+      "name": "Yupoong 6089M Wool Blend Snapback (Heather Grey)",
+      "size": "One size",
+      "color": "Heather Grey",
+      "color_code": "#A8A59E",
+      "price": "12.49",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/99/7836_1586155081.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 99
+    },
+    {
+      "variant_id": 7838,
+      "name": "Yupoong 6089M Wool Blend Snapback (Heather Grey/ Navy)",
+      "size": "One size",
+      "color": "Heather Grey/ Navy",
+      "color_code": "#A8A59E",
+      "price": "14.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/99/7838_1586154997.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "JP": "Japan"
+      },
+      "product_id": 99
+    },
+    {
+      "variant_id": 7840,
+      "name": "Yupoong 6089M Wool Blend Snapback (Heather Grey/ Red)",
+      "size": "One size",
+      "color": "Heather Grey/ Red",
+      "color_code": "#A8A59E",
+      "price": "14.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/99/7840_1586155061.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "JP": "Japan"
+      },
+      "product_id": 99
+    },
+    {
+      "variant_id": 7837,
+      "name": "Yupoong 6089M Wool Blend Snapback (Heather/Black)",
+      "size": "One size",
+      "color": "Heather/Black",
+      "color_code": "#A8A59E",
+      "price": "12.49",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/99/7837_1586154972.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 99
+    },
+    {
+      "variant_id": 4799,
+      "name": "Yupoong 6089M Wool Blend Snapback (Maroon)",
+      "size": "One size",
+      "color": "Maroon",
+      "color_code": "#651929",
+      "price": "12.49",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/99/4799_1586155104.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 99
+    },
+    {
+      "variant_id": 4801,
+      "name": "Yupoong 6089M Wool Blend Snapback (Natural/ Black)",
+      "size": "One size",
+      "color": "Natural/ Black",
+      "color_code": "#f5eee1",
+      "price": "14.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/99/4801_1586155126.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 99
+    },
+    {
+      "variant_id": 4802,
+      "name": "Yupoong 6089M Wool Blend Snapback (Navy)",
+      "size": "One size",
+      "color": "Navy",
+      "color_code": "#303044",
+      "price": "12.49",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/99/4802_1586155149.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 99
+    },
+    {
+      "variant_id": 7842,
+      "name": "Yupoong 6089M Wool Blend Snapback (Navy/ Red)",
+      "size": "One size",
+      "color": "Navy/ Red",
+      "color_code": "#303044",
+      "price": "14.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/99/7842_1586154916.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "JP": "Japan"
+      },
+      "product_id": 99
+    },
+    {
+      "variant_id": 4806,
+      "name": "Yupoong 6089M Wool Blend Snapback (Red)",
+      "size": "One size",
+      "color": "Red",
+      "color_code": "#dd0b2e",
+      "price": "12.49",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/99/4806_1586155186.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 99
+    },
+    {
+      "variant_id": 4807,
+      "name": "Yupoong 6089M Wool Blend Snapback (Royal Blue)",
+      "size": "One size",
+      "color": "Royal Blue",
+      "color_code": "#10337a",
+      "price": "12.49",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/99/4807_1586155230.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 99
+    },
+    {
+      "variant_id": 4808,
+      "name": "Yupoong 6089M Wool Blend Snapback (Silver)",
+      "size": "One size",
+      "color": "Silver",
+      "color_code": "#9f9da5",
+      "price": "12.49",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/99/4808_1586155250.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 99
+    },
+    {
+      "variant_id": 4809,
+      "name": "Yupoong 6089M Wool Blend Snapback (Spruce)",
+      "size": "One size",
+      "color": "Spruce",
+      "color_code": "#183e41",
+      "price": "12.49",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/99/4809_1586155268.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 99
+    },
+    {
+      "variant_id": 22453,
+      "name": "Yupoong 6089M Wool Blend Snapback (White)",
+      "size": "One size",
+      "color": "White",
+      "color_code": "#ffffff",
+      "price": "12.49",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/99/22453_1741939296.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 99
+    }
+  ],
+  "file_info": {
+    "available_placements": {
+      "embroidery_front_large": "Front",
+      "embroidery_back": "Back",
+      "embroidery_right": "Right side",
+      "embroidery_left": "Left side",
+      "addon_embroidery_front": "Front"
+    },
+    "print_files": [
+      {
+        "printfile_id": 76,
+        "width": 600,
+        "height": 300,
+        "dpi": 300,
+        "fill_mode": "fit",
+        "can_rotate": false
+      },
+      {
+        "printfile_id": 478,
+        "width": 1890,
+        "height": 765,
+        "dpi": 300,
+        "fill_mode": "fit",
+        "can_rotate": false
+      },
+      {
+        "printfile_id": 706,
+        "width": 675,
+        "height": 675,
+        "dpi": 300,
+        "fill_mode": "fit",
+        "can_rotate": false
+      }
+    ],
+    "techniques": [
+      {
+        "key": "EMBROIDERY",
+        "display_name": "Embroidery",
+        "is_default": true
+      }
+    ],
+    "embroidery_info": {
+      "available_placements": {
+        "embroidery_front_large": "Front",
+        "embroidery_back": "Back",
+        "embroidery_right": "Right side",
+        "embroidery_left": "Left side",
+        "addon_embroidery_front": "Front"
+      },
+      "print_files": [
+        {
+          "printfile_id": 76,
+          "width": 600,
+          "height": 300,
+          "dpi": 300,
+          "fill_mode": "fit",
+          "can_rotate": false
+        },
+        {
+          "printfile_id": 478,
+          "width": 1890,
+          "height": 765,
+          "dpi": 300,
+          "fill_mode": "fit",
+          "can_rotate": false
+        },
+        {
+          "printfile_id": 706,
+          "width": 675,
+          "height": 675,
+          "dpi": 300,
+          "fill_mode": "fit",
+          "can_rotate": false
+        }
+      ]
+    }
+  },
+  "total_variants": 21
+}

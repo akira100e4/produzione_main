@@ -1,0 +1,6833 @@
+{
+  "search_timestamp": 1758738156.5554402,
+  "product_info": {
+    "id": 146,
+    "name": "Unisex Heavy Blend Hoodie | Gildan 18500",
+    "brand": "Gildan",
+    "model": "18500",
+    "type": "T-SHIRT",
+    "type_name": "Sweatshirt",
+    "image": "https://files.cdn.printful.com/o/upload/product-catalog-img/c6/c650a4604d04de3cedb2694e01920f60_l",
+    "currency": "EUR",
+    "variant_count": 192
+  },
+  "variants": [
+    {
+      "variant_id": 20556,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Ash / 2XL)",
+      "size": "2XL",
+      "color": "Ash",
+      "color_code": "#dedede",
+      "price": "21.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/20544_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 20559,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Ash / 3XL)",
+      "size": "3XL",
+      "color": "Ash",
+      "color_code": "#dedede",
+      "price": "23.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/20544_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 20562,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Ash / 4XL)",
+      "size": "4XL",
+      "color": "Ash",
+      "color_code": "#dedede",
+      "price": "24.75",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/20544_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 20565,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Ash / 5XL)",
+      "size": "5XL",
+      "color": "Ash",
+      "color_code": "#dedede",
+      "price": "26.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/20544_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 20550,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Ash / L)",
+      "size": "L",
+      "color": "Ash",
+      "color_code": "#dedede",
+      "price": "19.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/20544_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 20547,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Ash / M)",
+      "size": "M",
+      "color": "Ash",
+      "color_code": "#dedede",
+      "price": "19.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/20544_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 20544,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Ash / S)",
+      "size": "S",
+      "color": "Ash",
+      "color_code": "#dedede",
+      "price": "19.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/20544_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 20553,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Ash / XL)",
+      "size": "XL",
+      "color": "Ash",
+      "color_code": "#dedede",
+      "price": "19.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/20544_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5534,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Black / 2XL)",
+      "size": "2XL",
+      "color": "Black",
+      "color_code": "#0b0b0b",
+      "price": "20.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5530_1750160839.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5535,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Black / 3XL)",
+      "size": "3XL",
+      "color": "Black",
+      "color_code": "#0b0b0b",
+      "price": "21.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5530_1750160839.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5536,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Black / 4XL)",
+      "size": "4XL",
+      "color": "Black",
+      "color_code": "#0b0b0b",
+      "price": "22.85",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5530_1750160839.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5537,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Black / 5XL)",
+      "size": "5XL",
+      "color": "Black",
+      "color_code": "#0b0b0b",
+      "price": "24.15",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5530_1750160839.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5532,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Black / L)",
+      "size": "L",
+      "color": "Black",
+      "color_code": "#0b0b0b",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5530_1750160839.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5531,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Black / M)",
+      "size": "M",
+      "color": "Black",
+      "color_code": "#0b0b0b",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5530_1750160839.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5530,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Black / S)",
+      "size": "S",
+      "color": "Black",
+      "color_code": "#0b0b0b",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5530_1750160839.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        },
+        {
+          "region": "BR",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan",
+        "BR": "Brazil"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5533,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Black / XL)",
+      "size": "XL",
+      "color": "Black",
+      "color_code": "#0b0b0b",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5530_1750160839.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 21639,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Carolina Blue / 2XL)",
+      "size": "2XL",
+      "color": "Carolina Blue",
+      "color_code": "#8DB7F6",
+      "price": "20.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/21635_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 21640,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Carolina Blue / 3XL)",
+      "size": "3XL",
+      "color": "Carolina Blue",
+      "color_code": "#8DB7F6",
+      "price": "21.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/21635_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 21641,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Carolina Blue / 4XL)",
+      "size": "4XL",
+      "color": "Carolina Blue",
+      "color_code": "#8DB7F6",
+      "price": "22.85",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/21635_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 21642,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Carolina Blue / 5XL)",
+      "size": "5XL",
+      "color": "Carolina Blue",
+      "color_code": "#8DB7F6",
+      "price": "24.15",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/21635_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 21637,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Carolina Blue / L)",
+      "size": "L",
+      "color": "Carolina Blue",
+      "color_code": "#8DB7F6",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/21635_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 21636,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Carolina Blue / M)",
+      "size": "M",
+      "color": "Carolina Blue",
+      "color_code": "#8DB7F6",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/21635_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 21635,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Carolina Blue / S)",
+      "size": "S",
+      "color": "Carolina Blue",
+      "color_code": "#8DB7F6",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/21635_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 21638,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Carolina Blue / XL)",
+      "size": "XL",
+      "color": "Carolina Blue",
+      "color_code": "#8DB7F6",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/21635_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 16863,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Charcoal / 2XL)",
+      "size": "2XL",
+      "color": "Charcoal",
+      "color_code": "#534E4A",
+      "price": "21.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/16859_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 16864,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Charcoal / 3XL)",
+      "size": "3XL",
+      "color": "Charcoal",
+      "color_code": "#534E4A",
+      "price": "23.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/16859_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 20568,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Charcoal / 4XL)",
+      "size": "4XL",
+      "color": "Charcoal",
+      "color_code": "#534E4A",
+      "price": "24.75",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/16859_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 20569,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Charcoal / 5XL)",
+      "size": "5XL",
+      "color": "Charcoal",
+      "color_code": "#534E4A",
+      "price": "26.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/16859_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 16861,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Charcoal / L)",
+      "size": "L",
+      "color": "Charcoal",
+      "color_code": "#534E4A",
+      "price": "19.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/16859_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 16860,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Charcoal / M)",
+      "size": "M",
+      "color": "Charcoal",
+      "color_code": "#534E4A",
+      "price": "19.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/16859_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 16859,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Charcoal / S)",
+      "size": "S",
+      "color": "Charcoal",
+      "color_code": "#534E4A",
+      "price": "19.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/16859_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 16862,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Charcoal / XL)",
+      "size": "XL",
+      "color": "Charcoal",
+      "color_code": "#534E4A",
+      "price": "19.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/16859_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5558,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Dark Chocolate / 2XL)",
+      "size": "2XL",
+      "color": "Dark Chocolate",
+      "color_code": "#35241b",
+      "price": "20.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5554_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5559,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Dark Chocolate / 3XL)",
+      "size": "3XL",
+      "color": "Dark Chocolate",
+      "color_code": "#35241b",
+      "price": "21.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5554_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5556,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Dark Chocolate / L)",
+      "size": "L",
+      "color": "Dark Chocolate",
+      "color_code": "#35241b",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5554_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5555,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Dark Chocolate / M)",
+      "size": "M",
+      "color": "Dark Chocolate",
+      "color_code": "#35241b",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5554_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5554,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Dark Chocolate / S)",
+      "size": "S",
+      "color": "Dark Chocolate",
+      "color_code": "#35241b",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5554_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5557,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Dark Chocolate / XL)",
+      "size": "XL",
+      "color": "Dark Chocolate",
+      "color_code": "#35241b",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5554_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 10810,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Dark Heather / 2XL)",
+      "size": "2XL",
+      "color": "Dark Heather",
+      "color_code": "#47484d",
+      "price": "20.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/10806_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 10811,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Dark Heather / 3XL)",
+      "size": "3XL",
+      "color": "Dark Heather",
+      "color_code": "#47484d",
+      "price": "21.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/10806_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 10812,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Dark Heather / 4XL)",
+      "size": "4XL",
+      "color": "Dark Heather",
+      "color_code": "#47484d",
+      "price": "24.75",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/10806_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 10813,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Dark Heather / 5XL)",
+      "size": "5XL",
+      "color": "Dark Heather",
+      "color_code": "#47484d",
+      "price": "26.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/10806_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 10808,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Dark Heather / L)",
+      "size": "L",
+      "color": "Dark Heather",
+      "color_code": "#47484d",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/10806_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 10807,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Dark Heather / M)",
+      "size": "M",
+      "color": "Dark Heather",
+      "color_code": "#47484d",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/10806_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 10806,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Dark Heather / S)",
+      "size": "S",
+      "color": "Dark Heather",
+      "color_code": "#47484d",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/10806_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 10809,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Dark Heather / XL)",
+      "size": "XL",
+      "color": "Dark Heather",
+      "color_code": "#47484d",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/10806_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 20574,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Forest Green / 2XL)",
+      "size": "2XL",
+      "color": "Forest Green",
+      "color_code": "#222E1F",
+      "price": "21.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/20570_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 20575,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Forest Green / 3XL)",
+      "size": "3XL",
+      "color": "Forest Green",
+      "color_code": "#222E1F",
+      "price": "23.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/20570_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 20576,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Forest Green / 4XL)",
+      "size": "4XL",
+      "color": "Forest Green",
+      "color_code": "#222E1F",
+      "price": "24.75",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/20570_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 20577,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Forest Green / 5XL)",
+      "size": "5XL",
+      "color": "Forest Green",
+      "color_code": "#222E1F",
+      "price": "26.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/20570_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 20572,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Forest Green / L)",
+      "size": "L",
+      "color": "Forest Green",
+      "color_code": "#222E1F",
+      "price": "19.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/20570_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 20571,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Forest Green / M)",
+      "size": "M",
+      "color": "Forest Green",
+      "color_code": "#222E1F",
+      "price": "19.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/20570_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 20570,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Forest Green / S)",
+      "size": "S",
+      "color": "Forest Green",
+      "color_code": "#222E1F",
+      "price": "19.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/20570_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 20573,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Forest Green / XL)",
+      "size": "XL",
+      "color": "Forest Green",
+      "color_code": "#222E1F",
+      "price": "19.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/20570_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 22122,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Gold / 2XL)",
+      "size": "2XL",
+      "color": "Gold",
+      "color_code": "#FFAF24",
+      "price": "20.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/22118_1750160843.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 22123,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Gold / 3XL)",
+      "size": "3XL",
+      "color": "Gold",
+      "color_code": "#FFAF24",
+      "price": "21.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/22118_1750160843.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 22124,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Gold / 4XL)",
+      "size": "4XL",
+      "color": "Gold",
+      "color_code": "#FFAF24",
+      "price": "22.85",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/22118_1750160843.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 22125,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Gold / 5XL)",
+      "size": "5XL",
+      "color": "Gold",
+      "color_code": "#FFAF24",
+      "price": "24.15",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/22118_1750160843.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 22120,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Gold / L)",
+      "size": "L",
+      "color": "Gold",
+      "color_code": "#FFAF24",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/22118_1750160843.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 22119,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Gold / M)",
+      "size": "M",
+      "color": "Gold",
+      "color_code": "#FFAF24",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/22118_1750160843.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 22118,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Gold / S)",
+      "size": "S",
+      "color": "Gold",
+      "color_code": "#FFAF24",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/22118_1750160843.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 22121,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Gold / XL)",
+      "size": "XL",
+      "color": "Gold",
+      "color_code": "#FFAF24",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/22118_1750160843.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 20558,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Graphite Heather / 2XL)",
+      "size": "2XL",
+      "color": "Graphite Heather",
+      "color_code": "#686868",
+      "price": "21.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/20546_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 20561,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Graphite Heather / 3XL)",
+      "size": "3XL",
+      "color": "Graphite Heather",
+      "color_code": "#686868",
+      "price": "23.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/20546_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 20564,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Graphite Heather / 4XL)",
+      "size": "4XL",
+      "color": "Graphite Heather",
+      "color_code": "#686868",
+      "price": "24.75",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/20546_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 20567,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Graphite Heather / 5XL)",
+      "size": "5XL",
+      "color": "Graphite Heather",
+      "color_code": "#686868",
+      "price": "26.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/20546_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 20552,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Graphite Heather / L)",
+      "size": "L",
+      "color": "Graphite Heather",
+      "color_code": "#686868",
+      "price": "19.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/20546_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 20549,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Graphite Heather / M)",
+      "size": "M",
+      "color": "Graphite Heather",
+      "color_code": "#686868",
+      "price": "19.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/20546_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 20546,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Graphite Heather / S)",
+      "size": "S",
+      "color": "Graphite Heather",
+      "color_code": "#686868",
+      "price": "19.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/20546_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 20555,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Graphite Heather / XL)",
+      "size": "XL",
+      "color": "Graphite Heather",
+      "color_code": "#686868",
+      "price": "19.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/20546_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 17407,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Heather Sport Dark Navy / 2XL)",
+      "size": "2XL",
+      "color": "Heather Sport Dark Navy",
+      "color_code": "#515A6E",
+      "price": "20.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/17406_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 17406,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Heather Sport Dark Navy / 3XL)",
+      "size": "3XL",
+      "color": "Heather Sport Dark Navy",
+      "color_code": "#515A6E",
+      "price": "21.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/17406_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 17409,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Heather Sport Dark Navy / L)",
+      "size": "L",
+      "color": "Heather Sport Dark Navy",
+      "color_code": "#515A6E",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/17406_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 17410,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Heather Sport Dark Navy / M)",
+      "size": "M",
+      "color": "Heather Sport Dark Navy",
+      "color_code": "#515A6E",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/17406_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 17411,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Heather Sport Dark Navy / S)",
+      "size": "S",
+      "color": "Heather Sport Dark Navy",
+      "color_code": "#515A6E",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/17406_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 17408,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Heather Sport Dark Navy / XL)",
+      "size": "XL",
+      "color": "Heather Sport Dark Navy",
+      "color_code": "#515A6E",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/17406_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 22261,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Heliconia / 2XL)",
+      "size": "2XL",
+      "color": "Heliconia",
+      "color_code": "#F63880",
+      "price": "20.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/22257_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 22262,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Heliconia / 3XL)",
+      "size": "3XL",
+      "color": "Heliconia",
+      "color_code": "#F63880",
+      "price": "21.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/22257_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 22263,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Heliconia / 4XL)",
+      "size": "4XL",
+      "color": "Heliconia",
+      "color_code": "#F63880",
+      "price": "22.85",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/22257_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 22264,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Heliconia / 5XL)",
+      "size": "5XL",
+      "color": "Heliconia",
+      "color_code": "#F63880",
+      "price": "24.15",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/22257_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 22259,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Heliconia / L)",
+      "size": "L",
+      "color": "Heliconia",
+      "color_code": "#F63880",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/22257_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 22258,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Heliconia / M)",
+      "size": "M",
+      "color": "Heliconia",
+      "color_code": "#F63880",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/22257_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 22257,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Heliconia / S)",
+      "size": "S",
+      "color": "Heliconia",
+      "color_code": "#F63880",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/22257_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 22260,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Heliconia / XL)",
+      "size": "XL",
+      "color": "Heliconia",
+      "color_code": "#F63880",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/22257_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5566,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Indigo Blue / 2XL)",
+      "size": "2XL",
+      "color": "Indigo Blue",
+      "color_code": "#395d82",
+      "price": "20.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5562_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada",
+        "UK": "United Kingdom"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5567,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Indigo Blue / 3XL)",
+      "size": "3XL",
+      "color": "Indigo Blue",
+      "color_code": "#395d82",
+      "price": "21.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5562_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "supplier_out_of_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5564,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Indigo Blue / L)",
+      "size": "L",
+      "color": "Indigo Blue",
+      "color_code": "#395d82",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5562_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5563,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Indigo Blue / M)",
+      "size": "M",
+      "color": "Indigo Blue",
+      "color_code": "#395d82",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5562_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5562,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Indigo Blue / S)",
+      "size": "S",
+      "color": "Indigo Blue",
+      "color_code": "#395d82",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5562_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5565,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Indigo Blue / XL)",
+      "size": "XL",
+      "color": "Indigo Blue",
+      "color_code": "#395d82",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5562_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5550,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Irish Green / 2XL)",
+      "size": "2XL",
+      "color": "Irish Green",
+      "color_code": "#1d9345",
+      "price": "20.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5546_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "BR",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "BR": "Brazil"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5551,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Irish Green / 3XL)",
+      "size": "3XL",
+      "color": "Irish Green",
+      "color_code": "#1d9345",
+      "price": "21.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5546_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5548,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Irish Green / L)",
+      "size": "L",
+      "color": "Irish Green",
+      "color_code": "#1d9345",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5546_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "BR",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "BR": "Brazil"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5547,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Irish Green / M)",
+      "size": "M",
+      "color": "Irish Green",
+      "color_code": "#1d9345",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5546_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "BR",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "BR": "Brazil"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5546,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Irish Green / S)",
+      "size": "S",
+      "color": "Irish Green",
+      "color_code": "#1d9345",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5546_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "BR",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "BR": "Brazil"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5549,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Irish Green / XL)",
+      "size": "XL",
+      "color": "Irish Green",
+      "color_code": "#1d9345",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5546_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "BR",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "BR": "Brazil"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 10845,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Light Blue / 2XL)",
+      "size": "2XL",
+      "color": "Light Blue",
+      "color_code": "#a1c5e1",
+      "price": "20.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/10841_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 10846,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Light Blue / 3XL)",
+      "size": "3XL",
+      "color": "Light Blue",
+      "color_code": "#a1c5e1",
+      "price": "21.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/10841_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 10847,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Light Blue / 4XL)",
+      "size": "4XL",
+      "color": "Light Blue",
+      "color_code": "#a1c5e1",
+      "price": "24.75",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/10841_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 10848,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Light Blue / 5XL)",
+      "size": "5XL",
+      "color": "Light Blue",
+      "color_code": "#a1c5e1",
+      "price": "26.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/10841_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 10843,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Light Blue / L)",
+      "size": "L",
+      "color": "Light Blue",
+      "color_code": "#a1c5e1",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/10841_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 10842,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Light Blue / M)",
+      "size": "M",
+      "color": "Light Blue",
+      "color_code": "#a1c5e1",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/10841_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 10841,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Light Blue / S)",
+      "size": "S",
+      "color": "Light Blue",
+      "color_code": "#a1c5e1",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/10841_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 10844,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Light Blue / XL)",
+      "size": "XL",
+      "color": "Light Blue",
+      "color_code": "#a1c5e1",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/10841_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 10853,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Light Pink / 2XL)",
+      "size": "2XL",
+      "color": "Light Pink",
+      "color_code": "#f3d4e3",
+      "price": "20.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/10849_1750160843.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 10854,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Light Pink / 3XL)",
+      "size": "3XL",
+      "color": "Light Pink",
+      "color_code": "#f3d4e3",
+      "price": "21.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/10849_1750160843.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 10855,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Light Pink / 4XL)",
+      "size": "4XL",
+      "color": "Light Pink",
+      "color_code": "#f3d4e3",
+      "price": "24.75",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/10849_1750160843.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 10856,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Light Pink / 5XL)",
+      "size": "5XL",
+      "color": "Light Pink",
+      "color_code": "#f3d4e3",
+      "price": "26.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/10849_1750160843.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 10851,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Light Pink / L)",
+      "size": "L",
+      "color": "Light Pink",
+      "color_code": "#f3d4e3",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/10849_1750160843.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 10850,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Light Pink / M)",
+      "size": "M",
+      "color": "Light Pink",
+      "color_code": "#f3d4e3",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/10849_1750160843.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 10849,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Light Pink / S)",
+      "size": "S",
+      "color": "Light Pink",
+      "color_code": "#f3d4e3",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/10849_1750160843.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 10852,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Light Pink / XL)",
+      "size": "XL",
+      "color": "Light Pink",
+      "color_code": "#f3d4e3",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/10849_1750160843.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5590,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Maroon / 2XL)",
+      "size": "2XL",
+      "color": "Maroon",
+      "color_code": "#47171c",
+      "price": "20.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5586_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5591,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Maroon / 3XL)",
+      "size": "3XL",
+      "color": "Maroon",
+      "color_code": "#47171c",
+      "price": "21.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5586_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5588,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Maroon / L)",
+      "size": "L",
+      "color": "Maroon",
+      "color_code": "#47171c",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5586_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5587,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Maroon / M)",
+      "size": "M",
+      "color": "Maroon",
+      "color_code": "#47171c",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5586_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5586,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Maroon / S)",
+      "size": "S",
+      "color": "Maroon",
+      "color_code": "#47171c",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5586_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5589,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Maroon / XL)",
+      "size": "XL",
+      "color": "Maroon",
+      "color_code": "#47171c",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5586_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 12993,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Military Green / 2XL)",
+      "size": "2XL",
+      "color": "Military Green",
+      "color_code": "#7e8560",
+      "price": "20.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/12989_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 12994,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Military Green / 3XL)",
+      "size": "3XL",
+      "color": "Military Green",
+      "color_code": "#7e8560",
+      "price": "21.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/12989_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 12995,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Military Green / 4XL)",
+      "size": "4XL",
+      "color": "Military Green",
+      "color_code": "#7e8560",
+      "price": "24.75",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/12989_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 12996,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Military Green / 5XL)",
+      "size": "5XL",
+      "color": "Military Green",
+      "color_code": "#7e8560",
+      "price": "26.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/12989_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 12991,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Military Green / L)",
+      "size": "L",
+      "color": "Military Green",
+      "color_code": "#7e8560",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/12989_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 12990,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Military Green / M)",
+      "size": "M",
+      "color": "Military Green",
+      "color_code": "#7e8560",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/12989_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 12989,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Military Green / S)",
+      "size": "S",
+      "color": "Military Green",
+      "color_code": "#7e8560",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/12989_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 12992,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Military Green / XL)",
+      "size": "XL",
+      "color": "Military Green",
+      "color_code": "#7e8560",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/12989_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5598,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Navy / 2XL)",
+      "size": "2XL",
+      "color": "Navy",
+      "color_code": "#131928",
+      "price": "20.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5594_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "BR",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "BR": "Brazil"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5599,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Navy / 3XL)",
+      "size": "3XL",
+      "color": "Navy",
+      "color_code": "#131928",
+      "price": "21.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5594_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada",
+        "UK": "United Kingdom"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5600,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Navy / 4XL)",
+      "size": "4XL",
+      "color": "Navy",
+      "color_code": "#131928",
+      "price": "22.85",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5594_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5601,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Navy / 5XL)",
+      "size": "5XL",
+      "color": "Navy",
+      "color_code": "#131928",
+      "price": "24.15",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5594_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5596,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Navy / L)",
+      "size": "L",
+      "color": "Navy",
+      "color_code": "#131928",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5594_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        },
+        {
+          "region": "BR",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan",
+        "BR": "Brazil"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5595,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Navy / M)",
+      "size": "M",
+      "color": "Navy",
+      "color_code": "#131928",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5594_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5594,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Navy / S)",
+      "size": "S",
+      "color": "Navy",
+      "color_code": "#131928",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5594_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        },
+        {
+          "region": "BR",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan",
+        "BR": "Brazil"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5597,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Navy / XL)",
+      "size": "XL",
+      "color": "Navy",
+      "color_code": "#131928",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5594_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        },
+        {
+          "region": "BR",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan",
+        "BR": "Brazil"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 22269,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Orange / 2XL)",
+      "size": "2XL",
+      "color": "Orange",
+      "color_code": "#FF5723",
+      "price": "20.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/22265_1750160843.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 22270,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Orange / 3XL)",
+      "size": "3XL",
+      "color": "Orange",
+      "color_code": "#FF5723",
+      "price": "21.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/22265_1750160843.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 22271,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Orange / 4XL)",
+      "size": "4XL",
+      "color": "Orange",
+      "color_code": "#FF5723",
+      "price": "22.85",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/22265_1750160843.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 22272,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Orange / 5XL)",
+      "size": "5XL",
+      "color": "Orange",
+      "color_code": "#FF5723",
+      "price": "24.15",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/22265_1750160843.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 22267,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Orange / L)",
+      "size": "L",
+      "color": "Orange",
+      "color_code": "#FF5723",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/22265_1750160843.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 22266,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Orange / M)",
+      "size": "M",
+      "color": "Orange",
+      "color_code": "#FF5723",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/22265_1750160843.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 22265,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Orange / S)",
+      "size": "S",
+      "color": "Orange",
+      "color_code": "#FF5723",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/22265_1750160843.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 22268,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Orange / XL)",
+      "size": "XL",
+      "color": "Orange",
+      "color_code": "#FF5723",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/22265_1750160843.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 21631,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Purple / 2XL)",
+      "size": "2XL",
+      "color": "Purple",
+      "color_code": "#4A1C7D",
+      "price": "20.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/21627_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 21632,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Purple / 3XL)",
+      "size": "3XL",
+      "color": "Purple",
+      "color_code": "#4A1C7D",
+      "price": "21.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/21627_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 21633,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Purple / 4XL)",
+      "size": "4XL",
+      "color": "Purple",
+      "color_code": "#4A1C7D",
+      "price": "22.85",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/21627_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 21634,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Purple / 5XL)",
+      "size": "5XL",
+      "color": "Purple",
+      "color_code": "#4A1C7D",
+      "price": "24.15",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/21627_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 21629,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Purple / L)",
+      "size": "L",
+      "color": "Purple",
+      "color_code": "#4A1C7D",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/21627_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 21628,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Purple / M)",
+      "size": "M",
+      "color": "Purple",
+      "color_code": "#4A1C7D",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/21627_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 21627,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Purple / S)",
+      "size": "S",
+      "color": "Purple",
+      "color_code": "#4A1C7D",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/21627_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 21630,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Purple / XL)",
+      "size": "XL",
+      "color": "Purple",
+      "color_code": "#4A1C7D",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/21627_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5542,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Red / 2XL)",
+      "size": "2XL",
+      "color": "Red",
+      "color_code": "#da0a1a",
+      "price": "20.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5538_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5543,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Red / 3XL)",
+      "size": "3XL",
+      "color": "Red",
+      "color_code": "#da0a1a",
+      "price": "21.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5538_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5544,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Red / 4XL)",
+      "size": "4XL",
+      "color": "Red",
+      "color_code": "#da0a1a",
+      "price": "24.75",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5538_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5545,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Red / 5XL)",
+      "size": "5XL",
+      "color": "Red",
+      "color_code": "#da0a1a",
+      "price": "26.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5538_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5540,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Red / L)",
+      "size": "L",
+      "color": "Red",
+      "color_code": "#da0a1a",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5538_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5539,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Red / M)",
+      "size": "M",
+      "color": "Red",
+      "color_code": "#da0a1a",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5538_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5538,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Red / S)",
+      "size": "S",
+      "color": "Red",
+      "color_code": "#da0a1a",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5538_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5541,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Red / XL)",
+      "size": "XL",
+      "color": "Red",
+      "color_code": "#da0a1a",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5538_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 16854,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Royal / 2XL)",
+      "size": "2XL",
+      "color": "Royal",
+      "color_code": "#1D50A4",
+      "price": "20.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/16850_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 16855,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Royal / 3XL)",
+      "size": "3XL",
+      "color": "Royal",
+      "color_code": "#1D50A4",
+      "price": "21.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/16850_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 16852,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Royal / L)",
+      "size": "L",
+      "color": "Royal",
+      "color_code": "#1D50A4",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/16850_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 16851,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Royal / M)",
+      "size": "M",
+      "color": "Royal",
+      "color_code": "#1D50A4",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/16850_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 16850,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Royal / S)",
+      "size": "S",
+      "color": "Royal",
+      "color_code": "#1D50A4",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/16850_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 16853,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Royal / XL)",
+      "size": "XL",
+      "color": "Royal",
+      "color_code": "#1D50A4",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/16850_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 13001,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Sand / 2XL)",
+      "size": "2XL",
+      "color": "Sand",
+      "color_code": "#e7d3b3",
+      "price": "20.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/12997_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 13002,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Sand / 3XL)",
+      "size": "3XL",
+      "color": "Sand",
+      "color_code": "#e7d3b3",
+      "price": "21.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/12997_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 12999,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Sand / L)",
+      "size": "L",
+      "color": "Sand",
+      "color_code": "#e7d3b3",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/12997_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 12998,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Sand / M)",
+      "size": "M",
+      "color": "Sand",
+      "color_code": "#e7d3b3",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/12997_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 12997,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Sand / S)",
+      "size": "S",
+      "color": "Sand",
+      "color_code": "#e7d3b3",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/12997_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 13000,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Sand / XL)",
+      "size": "XL",
+      "color": "Sand",
+      "color_code": "#e7d3b3",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/12997_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5614,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Sport Grey / 2XL)",
+      "size": "2XL",
+      "color": "Sport Grey",
+      "color_code": "#9b969c",
+      "price": "20.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5610_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5615,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Sport Grey / 3XL)",
+      "size": "3XL",
+      "color": "Sport Grey",
+      "color_code": "#9b969c",
+      "price": "21.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5610_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5616,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Sport Grey / 4XL)",
+      "size": "4XL",
+      "color": "Sport Grey",
+      "color_code": "#9b969c",
+      "price": "22.85",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5610_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5617,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Sport Grey / 5XL)",
+      "size": "5XL",
+      "color": "Sport Grey",
+      "color_code": "#9b969c",
+      "price": "24.15",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5610_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5612,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Sport Grey / L)",
+      "size": "L",
+      "color": "Sport Grey",
+      "color_code": "#9b969c",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5610_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        },
+        {
+          "region": "BR",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan",
+        "BR": "Brazil"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5611,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Sport Grey / M)",
+      "size": "M",
+      "color": "Sport Grey",
+      "color_code": "#9b969c",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5610_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5610,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Sport Grey / S)",
+      "size": "S",
+      "color": "Sport Grey",
+      "color_code": "#9b969c",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5610_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        },
+        {
+          "region": "BR",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan",
+        "BR": "Brazil"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5613,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (Sport Grey / XL)",
+      "size": "XL",
+      "color": "Sport Grey",
+      "color_code": "#9b969c",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5610_1750160841.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        },
+        {
+          "region": "BR",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan",
+        "BR": "Brazil"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5526,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (White / 2XL)",
+      "size": "2XL",
+      "color": "White",
+      "color_code": "#ffffff",
+      "price": "20.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5522_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "BR",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "BR": "Brazil"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5527,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (White / 3XL)",
+      "size": "3XL",
+      "color": "White",
+      "color_code": "#ffffff",
+      "price": "21.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5522_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada",
+        "UK": "United Kingdom"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5528,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (White / 4XL)",
+      "size": "4XL",
+      "color": "White",
+      "color_code": "#ffffff",
+      "price": "22.85",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5522_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5529,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (White / 5XL)",
+      "size": "5XL",
+      "color": "White",
+      "color_code": "#ffffff",
+      "price": "24.15",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5522_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5524,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (White / L)",
+      "size": "L",
+      "color": "White",
+      "color_code": "#ffffff",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5522_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5523,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (White / M)",
+      "size": "M",
+      "color": "White",
+      "color_code": "#ffffff",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5522_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5522,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (White / S)",
+      "size": "S",
+      "color": "White",
+      "color_code": "#ffffff",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5522_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 5525,
+      "name": "Gildan 18500 Unisex Heavy Blend Hooded Sweatshirt (White / XL)",
+      "size": "XL",
+      "color": "White",
+      "color_code": "#ffffff",
+      "price": "18.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/5522_1750160842.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        },
+        {
+          "region": "BR",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan",
+        "BR": "Brazil"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 23493,
+      "name": "Unisex Heavy Blend Hooded Sweatshirt | Gildan 18500 (Azalea / 2XL)",
+      "size": "2XL",
+      "color": "Azalea",
+      "color_code": "#ff9faf",
+      "price": "21.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/23489_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 23494,
+      "name": "Unisex Heavy Blend Hooded Sweatshirt | Gildan 18500 (Azalea / 3XL)",
+      "size": "3XL",
+      "color": "Azalea",
+      "color_code": "#ff9faf",
+      "price": "23.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/23489_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 23491,
+      "name": "Unisex Heavy Blend Hooded Sweatshirt | Gildan 18500 (Azalea / L)",
+      "size": "L",
+      "color": "Azalea",
+      "color_code": "#ff9faf",
+      "price": "19.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/23489_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 23490,
+      "name": "Unisex Heavy Blend Hooded Sweatshirt | Gildan 18500 (Azalea / M)",
+      "size": "M",
+      "color": "Azalea",
+      "color_code": "#ff9faf",
+      "price": "19.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/23489_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 23489,
+      "name": "Unisex Heavy Blend Hooded Sweatshirt | Gildan 18500 (Azalea / S)",
+      "size": "S",
+      "color": "Azalea",
+      "color_code": "#ff9faf",
+      "price": "19.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/23489_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    },
+    {
+      "variant_id": 23492,
+      "name": "Unisex Heavy Blend Hooded Sweatshirt | Gildan 18500 (Azalea / XL)",
+      "size": "XL",
+      "color": "Azalea",
+      "color_code": "#ff9faf",
+      "price": "19.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/146/23489_1750160840.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 146
+    }
+  ],
+  "file_info": {
+    "available_placements": {
+      "front": "Front print",
+      "back": "Back print",
+      "label_outside": "Outside label",
+      "sleeve_right": "Right sleeve",
+      "sleeve_left": "Left sleeve",
+      "label_inside_dtf": "Inside label",
+      "embroidery_wrist_left": "Left wrist",
+      "embroidery_wrist_right": "Right wrist"
+    },
+    "print_files": [
+      {
+        "printfile_id": 1,
+        "width": 1800,
+        "height": 2400,
+        "dpi": 150,
+        "fill_mode": "fit",
+        "can_rotate": false
+      },
+      {
+        "printfile_id": 71,
+        "width": 450,
+        "height": 450,
+        "dpi": 150,
+        "fill_mode": "fit",
+        "can_rotate": false
+      },
+      {
+        "printfile_id": 90,
+        "width": 450,
+        "height": 450,
+        "dpi": 150,
+        "fill_mode": "fit",
+        "can_rotate": false
+      },
+      {
+        "printfile_id": 139,
+        "width": 2100,
+        "height": 2100,
+        "dpi": 150,
+        "fill_mode": "fit",
+        "can_rotate": false
+      },
+      {
+        "printfile_id": 147,
+        "width": 450,
+        "height": 1800,
+        "dpi": 150,
+        "fill_mode": "fit",
+        "can_rotate": false
+      },
+      {
+        "printfile_id": 396,
+        "width": 600,
+        "height": 900,
+        "dpi": 300,
+        "fill_mode": "fit",
+        "can_rotate": false
+      }
+    ],
+    "techniques": [
+      {
+        "key": "DTG",
+        "display_name": "DTG printing",
+        "is_default": true
+      },
+      {
+        "key": "EMBROIDERY",
+        "display_name": "Embroidery",
+        "is_default": false
+      },
+      {
+        "key": "DTFILM",
+        "display_name": "DTF printing",
+        "is_default": false
+      }
+    ],
+    "embroidery_info": {
+      "available_placements": {
+        "embroidery_chest_center": "Center chest",
+        "embroidery_chest_left": "Left chest",
+        "embroidery_large_center": "Large center",
+        "embroidery_wrist_left": "Left wrist",
+        "embroidery_wrist_right": "Right wrist",
+        "back": "Back print",
+        "label_outside": "Outside label",
+        "label_inside_dtf": "Inside label"
+      },
+      "print_files": [
+        {
+          "printfile_id": 1,
+          "width": 1800,
+          "height": 2400,
+          "dpi": 150,
+          "fill_mode": "fit",
+          "can_rotate": false
+        },
+        {
+          "printfile_id": 71,
+          "width": 450,
+          "height": 450,
+          "dpi": 150,
+          "fill_mode": "fit",
+          "can_rotate": false
+        },
+        {
+          "printfile_id": 90,
+          "width": 450,
+          "height": 450,
+          "dpi": 150,
+          "fill_mode": "fit",
+          "can_rotate": false
+        },
+        {
+          "printfile_id": 136,
+          "width": 1200,
+          "height": 1200,
+          "dpi": 300,
+          "fill_mode": "fit",
+          "can_rotate": false
+        },
+        {
+          "printfile_id": 222,
+          "width": 3000,
+          "height": 1800,
+          "dpi": 300,
+          "fill_mode": "fit",
+          "can_rotate": false
+        },
+        {
+          "printfile_id": 396,
+          "width": 600,
+          "height": 900,
+          "dpi": 300,
+          "fill_mode": "fit",
+          "can_rotate": false
+        }
+      ]
+    }
+  },
+  "total_variants": 192
+}

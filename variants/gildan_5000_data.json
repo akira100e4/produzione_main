@@ -1,0 +1,3490 @@
+{
+  "search_timestamp": 1758631039.182518,
+  "product_info": {
+    "id": 438,
+    "name": "Unisex Classic Tee | Gildan 5000",
+    "brand": "Gildan",
+    "model": "5000",
+    "type": "T-SHIRT",
+    "type_name": "T-Shirt",
+    "image": "https://files.cdn.printful.com/o/upload/product-catalog-img/51/5137d67bedbf56010d1daa04555a6d03_l",
+    "currency": "EUR",
+    "variant_count": 254
+  },
+  "variants": [
+    {
+      "variant_id": 14977,
+      "name": "Unisex Classic Tee | Gildan 5000 (Ash / 2XL)",
+      "size": "2XL",
+      "color": "Ash",
+      "color_code": "#f3f3f3",
+      "price": "7.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/14977_1652249461.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 14975,
+      "name": "Unisex Classic Tee | Gildan 5000 (Ash / L)",
+      "size": "L",
+      "color": "Ash",
+      "color_code": "#f3f3f3",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/14975_1652249475.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 14974,
+      "name": "Unisex Classic Tee | Gildan 5000 (Ash / M)",
+      "size": "M",
+      "color": "Ash",
+      "color_code": "#f3f3f3",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/14974_1652249482.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 14973,
+      "name": "Unisex Classic Tee | Gildan 5000 (Ash / S)",
+      "size": "S",
+      "color": "Ash",
+      "color_code": "#f3f3f3",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/14973_1652249482.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 14976,
+      "name": "Unisex Classic Tee | Gildan 5000 (Ash / XL)",
+      "size": "XL",
+      "color": "Ash",
+      "color_code": "#f3f3f3",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/14976_1652249487.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 11550,
+      "name": "Unisex Classic Tee | Gildan 5000 (Black / 2XL)",
+      "size": "2XL",
+      "color": "Black",
+      "color_code": "#141313",
+      "price": "7.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/11550_1642678229.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 11548,
+      "name": "Unisex Classic Tee | Gildan 5000 (Black / L)",
+      "size": "L",
+      "color": "Black",
+      "color_code": "#141313",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/11548_1642678239.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 11547,
+      "name": "Unisex Classic Tee | Gildan 5000 (Black / M)",
+      "size": "M",
+      "color": "Black",
+      "color_code": "#141313",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/11547_1642678240.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 11546,
+      "name": "Unisex Classic Tee | Gildan 5000 (Black / S)",
+      "size": "S",
+      "color": "Black",
+      "color_code": "#141313",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/11546_1642678249.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 11549,
+      "name": "Unisex Classic Tee | Gildan 5000 (Black / XL)",
+      "size": "XL",
+      "color": "Black",
+      "color_code": "#141313",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/11549_1642678249.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 15895,
+      "name": "Unisex Classic Tee | Gildan 5000 (Daisy / 2XL)",
+      "size": "2XL",
+      "color": "Daisy",
+      "color_code": "#ffc946",
+      "price": "7.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/15895_1737381435.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 15893,
+      "name": "Unisex Classic Tee | Gildan 5000 (Daisy / L)",
+      "size": "L",
+      "color": "Daisy",
+      "color_code": "#ffc946",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/15893_1737381446.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 15892,
+      "name": "Unisex Classic Tee | Gildan 5000 (Daisy / M)",
+      "size": "M",
+      "color": "Daisy",
+      "color_code": "#ffc946",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/15892_1737381446.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 15891,
+      "name": "Unisex Classic Tee | Gildan 5000 (Daisy / S)",
+      "size": "S",
+      "color": "Daisy",
+      "color_code": "#ffc946",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/15891_1737381446.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 15894,
+      "name": "Unisex Classic Tee | Gildan 5000 (Daisy / XL)",
+      "size": "XL",
+      "color": "Daisy",
+      "color_code": "#ffc946",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/15894_1737381446.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 20457,
+      "name": "Unisex Classic Tee | Gildan 5000 (Forest Green / 2XL)",
+      "size": "2XL",
+      "color": "Forest Green",
+      "color_code": "#1A3B23",
+      "price": "9.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/20457_1725449019.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 20455,
+      "name": "Unisex Classic Tee | Gildan 5000 (Forest Green / L)",
+      "size": "L",
+      "color": "Forest Green",
+      "color_code": "#1A3B23",
+      "price": "8.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/20455_1725449029.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 20454,
+      "name": "Unisex Classic Tee | Gildan 5000 (Forest Green / M)",
+      "size": "M",
+      "color": "Forest Green",
+      "color_code": "#1A3B23",
+      "price": "8.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/20454_1725449029.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 20453,
+      "name": "Unisex Classic Tee | Gildan 5000 (Forest Green / S)",
+      "size": "S",
+      "color": "Forest Green",
+      "color_code": "#1A3B23",
+      "price": "8.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/20453_1725449031.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 20456,
+      "name": "Unisex Classic Tee | Gildan 5000 (Forest Green / XL)",
+      "size": "XL",
+      "color": "Forest Green",
+      "color_code": "#1A3B23",
+      "price": "8.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/20456_1725449039.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 15853,
+      "name": "Unisex Classic Tee | Gildan 5000 (Gold / 2XL)",
+      "size": "2XL",
+      "color": "Gold",
+      "color_code": "#ffb22d",
+      "price": "7.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/15853_1664354988.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 15851,
+      "name": "Unisex Classic Tee | Gildan 5000 (Gold / L)",
+      "size": "L",
+      "color": "Gold",
+      "color_code": "#ffb22d",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/15851_1664355000.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 15850,
+      "name": "Unisex Classic Tee | Gildan 5000 (Gold / M)",
+      "size": "M",
+      "color": "Gold",
+      "color_code": "#ffb22d",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/15850_1664355009.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 15849,
+      "name": "Unisex Classic Tee | Gildan 5000 (Gold / S)",
+      "size": "S",
+      "color": "Gold",
+      "color_code": "#ffb22d",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/15849_1664355009.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 15852,
+      "name": "Unisex Classic Tee | Gildan 5000 (Gold / XL)",
+      "size": "XL",
+      "color": "Gold",
+      "color_code": "#ffb22d",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/15852_1664355019.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 21687,
+      "name": "Unisex Classic Tee | Gildan 5000 (Graphite Heather / 2XL)",
+      "size": "2XL",
+      "color": "Graphite Heather",
+      "color_code": "#858585",
+      "price": "7.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/21687_1737381456.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 21685,
+      "name": "Unisex Classic Tee | Gildan 5000 (Graphite Heather / L)",
+      "size": "L",
+      "color": "Graphite Heather",
+      "color_code": "#858585",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/21685_1737381467.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 21684,
+      "name": "Unisex Classic Tee | Gildan 5000 (Graphite Heather / M)",
+      "size": "M",
+      "color": "Graphite Heather",
+      "color_code": "#858585",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/21684_1737381467.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 21683,
+      "name": "Unisex Classic Tee | Gildan 5000 (Graphite Heather / S)",
+      "size": "S",
+      "color": "Graphite Heather",
+      "color_code": "#858585",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/21683_1737381467.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 21686,
+      "name": "Unisex Classic Tee | Gildan 5000 (Graphite Heather / XL)",
+      "size": "XL",
+      "color": "Graphite Heather",
+      "color_code": "#858585",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/21686_1737381470.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 21655,
+      "name": "Unisex Classic Tee | Gildan 5000 (Heliconia / 2XL)",
+      "size": "2XL",
+      "color": "Heliconia",
+      "color_code": "#E33F7A",
+      "price": "7.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/21655_1737381535.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 21653,
+      "name": "Unisex Classic Tee | Gildan 5000 (Heliconia / L)",
+      "size": "L",
+      "color": "Heliconia",
+      "color_code": "#E33F7A",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/21653_1737381545.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 21652,
+      "name": "Unisex Classic Tee | Gildan 5000 (Heliconia / M)",
+      "size": "M",
+      "color": "Heliconia",
+      "color_code": "#E33F7A",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/21652_1737381546.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 21651,
+      "name": "Unisex Classic Tee | Gildan 5000 (Heliconia / S)",
+      "size": "S",
+      "color": "Heliconia",
+      "color_code": "#E33F7A",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/21651_1737381546.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 21654,
+      "name": "Unisex Classic Tee | Gildan 5000 (Heliconia / XL)",
+      "size": "XL",
+      "color": "Heliconia",
+      "color_code": "#E33F7A",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/21654_1737381547.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 21695,
+      "name": "Unisex Classic Tee | Gildan 5000 (Ice Grey / 2XL)",
+      "size": "2XL",
+      "color": "Ice Grey",
+      "color_code": "#E9DDDC",
+      "price": "9.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/21695_1737381569.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 21693,
+      "name": "Unisex Classic Tee | Gildan 5000 (Ice Grey / L)",
+      "size": "L",
+      "color": "Ice Grey",
+      "color_code": "#E9DDDC",
+      "price": "8.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/21693_1737381580.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 21692,
+      "name": "Unisex Classic Tee | Gildan 5000 (Ice Grey / M)",
+      "size": "M",
+      "color": "Ice Grey",
+      "color_code": "#E9DDDC",
+      "price": "8.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/21692_1737381580.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 21691,
+      "name": "Unisex Classic Tee | Gildan 5000 (Ice Grey / S)",
+      "size": "S",
+      "color": "Ice Grey",
+      "color_code": "#E9DDDC",
+      "price": "8.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/21691_1737381580.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 21694,
+      "name": "Unisex Classic Tee | Gildan 5000 (Ice Grey / XL)",
+      "size": "XL",
+      "color": "Ice Grey",
+      "color_code": "#E9DDDC",
+      "price": "8.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/21694_1737381580.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 15859,
+      "name": "Unisex Classic Tee | Gildan 5000 (Irish Green / 2XL)",
+      "size": "2XL",
+      "color": "Irish Green",
+      "color_code": "#00ba69",
+      "price": "7.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/15859_1661693987.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 15857,
+      "name": "Unisex Classic Tee | Gildan 5000 (Irish Green / L)",
+      "size": "L",
+      "color": "Irish Green",
+      "color_code": "#00ba69",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/15857_1661693987.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 15856,
+      "name": "Unisex Classic Tee | Gildan 5000 (Irish Green / M)",
+      "size": "M",
+      "color": "Irish Green",
+      "color_code": "#00ba69",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/15856_1661693988.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 15855,
+      "name": "Unisex Classic Tee | Gildan 5000 (Irish Green / S)",
+      "size": "S",
+      "color": "Irish Green",
+      "color_code": "#00ba69",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/15855_1661693988.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 15858,
+      "name": "Unisex Classic Tee | Gildan 5000 (Irish Green / XL)",
+      "size": "XL",
+      "color": "Irish Green",
+      "color_code": "#00ba69",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/15858_1661693997.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 11555,
+      "name": "Unisex Classic Tee | Gildan 5000 (Light Pink / 2XL)",
+      "size": "2XL",
+      "color": "Light Pink",
+      "color_code": "#ffd4d5",
+      "price": "9.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/11555_1725448988.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 11553,
+      "name": "Unisex Classic Tee | Gildan 5000 (Light Pink / L)",
+      "size": "L",
+      "color": "Light Pink",
+      "color_code": "#ffd4d5",
+      "price": "8.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/11553_1725448999.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 11552,
+      "name": "Unisex Classic Tee | Gildan 5000 (Light Pink / M)",
+      "size": "M",
+      "color": "Light Pink",
+      "color_code": "#ffd4d5",
+      "price": "8.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/11552_1725448999.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 11551,
+      "name": "Unisex Classic Tee | Gildan 5000 (Light Pink / S)",
+      "size": "S",
+      "color": "Light Pink",
+      "color_code": "#ffd4d5",
+      "price": "8.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/11551_1725449000.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 11554,
+      "name": "Unisex Classic Tee | Gildan 5000 (Light Pink / XL)",
+      "size": "XL",
+      "color": "Light Pink",
+      "color_code": "#ffd4d5",
+      "price": "8.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/11554_1725449008.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 15889,
+      "name": "Unisex Classic Tee | Gildan 5000 (Lime / 2XL)",
+      "size": "2XL",
+      "color": "Lime",
+      "color_code": "#A3E05A",
+      "price": "7.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/15889_1737381600.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 15887,
+      "name": "Unisex Classic Tee | Gildan 5000 (Lime / L)",
+      "size": "L",
+      "color": "Lime",
+      "color_code": "#A3E05A",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/15887_1737381600.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 15886,
+      "name": "Unisex Classic Tee | Gildan 5000 (Lime / M)",
+      "size": "M",
+      "color": "Lime",
+      "color_code": "#A3E05A",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/15886_1737381601.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 15885,
+      "name": "Unisex Classic Tee | Gildan 5000 (Lime / S)",
+      "size": "S",
+      "color": "Lime",
+      "color_code": "#A3E05A",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/15885_1737381611.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 15888,
+      "name": "Unisex Classic Tee | Gildan 5000 (Lime / XL)",
+      "size": "XL",
+      "color": "Lime",
+      "color_code": "#A3E05A",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/15888_1737381611.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 12638,
+      "name": "Unisex Classic Tee | Gildan 5000 (Maroon / 2XL)",
+      "size": "2XL",
+      "color": "Maroon",
+      "color_code": "#47001b",
+      "price": "7.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/12638_1642678271.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 12636,
+      "name": "Unisex Classic Tee | Gildan 5000 (Maroon / L)",
+      "size": "L",
+      "color": "Maroon",
+      "color_code": "#47001b",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/12636_1642678282.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 12635,
+      "name": "Unisex Classic Tee | Gildan 5000 (Maroon / M)",
+      "size": "M",
+      "color": "Maroon",
+      "color_code": "#47001b",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/12635_1642678290.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 12634,
+      "name": "Unisex Classic Tee | Gildan 5000 (Maroon / S)",
+      "size": "S",
+      "color": "Maroon",
+      "color_code": "#47001b",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/12634_1642678290.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 12637,
+      "name": "Unisex Classic Tee | Gildan 5000 (Maroon / XL)",
+      "size": "XL",
+      "color": "Maroon",
+      "color_code": "#47001b",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/12637_1642678290.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 15871,
+      "name": "Unisex Classic Tee | Gildan 5000 (Military Green / 2XL)",
+      "size": "2XL",
+      "color": "Military Green",
+      "color_code": "#737a5f",
+      "price": "7.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/15871_1661694008.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 15869,
+      "name": "Unisex Classic Tee | Gildan 5000 (Military Green / L)",
+      "size": "L",
+      "color": "Military Green",
+      "color_code": "#737a5f",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/15869_1661694018.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 15868,
+      "name": "Unisex Classic Tee | Gildan 5000 (Military Green / M)",
+      "size": "M",
+      "color": "Military Green",
+      "color_code": "#737a5f",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/15868_1661694019.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 15867,
+      "name": "Unisex Classic Tee | Gildan 5000 (Military Green / S)",
+      "size": "S",
+      "color": "Military Green",
+      "color_code": "#737a5f",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/15867_1661694019.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 15870,
+      "name": "Unisex Classic Tee | Gildan 5000 (Military Green / XL)",
+      "size": "XL",
+      "color": "Military Green",
+      "color_code": "#737a5f",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/15870_1661694019.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 11565,
+      "name": "Unisex Classic Tee | Gildan 5000 (Navy / 2XL)",
+      "size": "2XL",
+      "color": "Navy",
+      "color_code": "#1a2330",
+      "price": "7.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/11565_1642678321.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 11563,
+      "name": "Unisex Classic Tee | Gildan 5000 (Navy / L)",
+      "size": "L",
+      "color": "Navy",
+      "color_code": "#1a2330",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/11563_1642678342.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 11562,
+      "name": "Unisex Classic Tee | Gildan 5000 (Navy / M)",
+      "size": "M",
+      "color": "Navy",
+      "color_code": "#1a2330",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/11562_1642678342.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 11561,
+      "name": "Unisex Classic Tee | Gildan 5000 (Navy / S)",
+      "size": "S",
+      "color": "Navy",
+      "color_code": "#1a2330",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/11561_1642678343.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 11564,
+      "name": "Unisex Classic Tee | Gildan 5000 (Navy / XL)",
+      "size": "XL",
+      "color": "Navy",
+      "color_code": "#1a2330",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/11564_1642678353.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 14969,
+      "name": "Unisex Classic Tee | Gildan 5000 (Orange / 2XL)",
+      "size": "2XL",
+      "color": "Orange",
+      "color_code": "#ff5f2e",
+      "price": "7.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/14969_1652249514.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 14967,
+      "name": "Unisex Classic Tee | Gildan 5000 (Orange / L)",
+      "size": "L",
+      "color": "Orange",
+      "color_code": "#ff5f2e",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/14967_1652249527.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 14966,
+      "name": "Unisex Classic Tee | Gildan 5000 (Orange / M)",
+      "size": "M",
+      "color": "Orange",
+      "color_code": "#ff5f2e",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/14966_1652249527.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 14965,
+      "name": "Unisex Classic Tee | Gildan 5000 (Orange / S)",
+      "size": "S",
+      "color": "Orange",
+      "color_code": "#ff5f2e",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/14965_1652249527.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 14968,
+      "name": "Unisex Classic Tee | Gildan 5000 (Orange / XL)",
+      "size": "XL",
+      "color": "Orange",
+      "color_code": "#ff5f2e",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/14968_1652249538.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 11570,
+      "name": "Unisex Classic Tee | Gildan 5000 (Red / 2XL)",
+      "size": "2XL",
+      "color": "Red",
+      "color_code": "#d80019",
+      "price": "7.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/11570_1642678353.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 11568,
+      "name": "Unisex Classic Tee | Gildan 5000 (Red / L)",
+      "size": "L",
+      "color": "Red",
+      "color_code": "#d80019",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/11568_1642678354.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 11567,
+      "name": "Unisex Classic Tee | Gildan 5000 (Red / M)",
+      "size": "M",
+      "color": "Red",
+      "color_code": "#d80019",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/11567_1642678363.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 11566,
+      "name": "Unisex Classic Tee | Gildan 5000 (Red / S)",
+      "size": "S",
+      "color": "Red",
+      "color_code": "#d80019",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/11566_1642678363.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 11569,
+      "name": "Unisex Classic Tee | Gildan 5000 (Red / XL)",
+      "size": "XL",
+      "color": "Red",
+      "color_code": "#d80019",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/11569_1642678363.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 21663,
+      "name": "Unisex Classic Tee | Gildan 5000 (Sapphire / 2XL)",
+      "size": "2XL",
+      "color": "Sapphire",
+      "color_code": "#007AB3",
+      "price": "7.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/21663_1737381631.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 21661,
+      "name": "Unisex Classic Tee | Gildan 5000 (Sapphire / L)",
+      "size": "L",
+      "color": "Sapphire",
+      "color_code": "#007AB3",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/21661_1737381641.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 21660,
+      "name": "Unisex Classic Tee | Gildan 5000 (Sapphire / M)",
+      "size": "M",
+      "color": "Sapphire",
+      "color_code": "#007AB3",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/21660_1737381641.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 21659,
+      "name": "Unisex Classic Tee | Gildan 5000 (Sapphire / S)",
+      "size": "S",
+      "color": "Sapphire",
+      "color_code": "#007AB3",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/21659_1737381642.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 21662,
+      "name": "Unisex Classic Tee | Gildan 5000 (Sapphire / XL)",
+      "size": "XL",
+      "color": "Sapphire",
+      "color_code": "#007AB3",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/21662_1737381652.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 14985,
+      "name": "Unisex Classic Tee | Gildan 5000 (Sky / 2XL)",
+      "size": "2XL",
+      "color": "Sky",
+      "color_code": "#8ee0ff",
+      "price": "7.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/14985_1652249538.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 14983,
+      "name": "Unisex Classic Tee | Gildan 5000 (Sky / L)",
+      "size": "L",
+      "color": "Sky",
+      "color_code": "#8ee0ff",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/14983_1652249552.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 14982,
+      "name": "Unisex Classic Tee | Gildan 5000 (Sky / M)",
+      "size": "M",
+      "color": "Sky",
+      "color_code": "#8ee0ff",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/14982_1652249559.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 14981,
+      "name": "Unisex Classic Tee | Gildan 5000 (Sky / S)",
+      "size": "S",
+      "color": "Sky",
+      "color_code": "#8ee0ff",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/14981_1652249559.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 14984,
+      "name": "Unisex Classic Tee | Gildan 5000 (Sky / XL)",
+      "size": "XL",
+      "color": "Sky",
+      "color_code": "#8ee0ff",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/14984_1652249563.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 11575,
+      "name": "Unisex Classic Tee | Gildan 5000 (Sport Grey / 2XL)",
+      "size": "2XL",
+      "color": "Sport Grey",
+      "color_code": "#c4c0be",
+      "price": "7.55",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/11575_1642678405.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 11573,
+      "name": "Unisex Classic Tee | Gildan 5000 (Sport Grey / L)",
+      "size": "L",
+      "color": "Sport Grey",
+      "color_code": "#c4c0be",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/11573_1642678415.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 11572,
+      "name": "Unisex Classic Tee | Gildan 5000 (Sport Grey / M)",
+      "size": "M",
+      "color": "Sport Grey",
+      "color_code": "#c4c0be",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/11572_1642678426.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 11571,
+      "name": "Unisex Classic Tee | Gildan 5000 (Sport Grey / S)",
+      "size": "S",
+      "color": "Sport Grey",
+      "color_code": "#c4c0be",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/11571_1642678426.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 11574,
+      "name": "Unisex Classic Tee | Gildan 5000 (Sport Grey / XL)",
+      "size": "XL",
+      "color": "Sport Grey",
+      "color_code": "#c4c0be",
+      "price": "6.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/11574_1642678426.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 21703,
+      "name": "Unisex Classic Tee | Gildan 5000 (Tropical Blue / 2XL)",
+      "size": "2XL",
+      "color": "Tropical Blue",
+      "color_code": "#00A0B3",
+      "price": "9.95",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/21703_1737381662.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 21701,
+      "name": "Unisex Classic Tee | Gildan 5000 (Tropical Blue / L)",
+      "size": "L",
+      "color": "Tropical Blue",
+      "color_code": "#00A0B3",
+      "price": "8.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/21701_1737381672.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 21700,
+      "name": "Unisex Classic Tee | Gildan 5000 (Tropical Blue / M)",
+      "size": "M",
+      "color": "Tropical Blue",
+      "color_code": "#00A0B3",
+      "price": "8.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/21700_1737381672.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 21699,
+      "name": "Unisex Classic Tee | Gildan 5000 (Tropical Blue / S)",
+      "size": "S",
+      "color": "Tropical Blue",
+      "color_code": "#00A0B3",
+      "price": "8.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/21699_1737381672.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 438
+    },
+    {
+      "variant_id": 21702,
+      "name": "Unisex Classic Tee | Gildan 5000 (Tropical Blue / XL)",
+      "size": "XL",
+      "color": "Tropical Blue",
+      "color_code": "#00A0B3",
+      "price": "8.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/438/21702_1737381673.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 438
+    }
+  ],
+  "file_info": {
+    "available_placements": {
+      "front": "Front print",
+      "back": "Back print",
+      "label_outside": "Outside label",
+      "label_inside": "Inside label",
+      "sleeve_left": "Left sleeve",
+      "sleeve_right": "Right sleeve"
+    },
+    "print_files": [
+      {
+        "printfile_id": 1,
+        "width": 1800,
+        "height": 2400,
+        "dpi": 150,
+        "fill_mode": "fit",
+        "can_rotate": false
+      },
+      {
+        "printfile_id": 71,
+        "width": 450,
+        "height": 450,
+        "dpi": 150,
+        "fill_mode": "fit",
+        "can_rotate": false
+      },
+      {
+        "printfile_id": 90,
+        "width": 450,
+        "height": 450,
+        "dpi": 150,
+        "fill_mode": "fit",
+        "can_rotate": false
+      },
+      {
+        "printfile_id": 130,
+        "width": 600,
+        "height": 525,
+        "dpi": 150,
+        "fill_mode": "fit",
+        "can_rotate": false
+      }
+    ],
+    "techniques": [
+      {
+        "key": "DTG",
+        "display_name": "DTG printing",
+        "is_default": true
+      },
+      {
+        "key": "EMBROIDERY",
+        "display_name": "Embroidery",
+        "is_default": false
+      },
+      {
+        "key": "DTFILM",
+        "display_name": "DTF printing",
+        "is_default": false
+      }
+    ],
+    "embroidery_info": {
+      "available_placements": {
+        "embroidery_chest_left": "Left chest",
+        "embroidery_chest_center": "Center chest",
+        "embroidery_large_center": "Large center",
+        "embroidery_sleeve_left_top": "Left sleeve top",
+        "embroidery_sleeve_right_top": "Right sleeve top",
+        "back": "Back print",
+        "label_outside": "Outside label",
+        "label_inside": "Inside label"
+      },
+      "print_files": [
+        {
+          "printfile_id": 1,
+          "width": 1800,
+          "height": 2400,
+          "dpi": 150,
+          "fill_mode": "fit",
+          "can_rotate": false
+        },
+        {
+          "printfile_id": 71,
+          "width": 450,
+          "height": 450,
+          "dpi": 150,
+          "fill_mode": "fit",
+          "can_rotate": false
+        },
+        {
+          "printfile_id": 90,
+          "width": 450,
+          "height": 450,
+          "dpi": 150,
+          "fill_mode": "fit",
+          "can_rotate": false
+        },
+        {
+          "printfile_id": 136,
+          "width": 1200,
+          "height": 1200,
+          "dpi": 300,
+          "fill_mode": "fit",
+          "can_rotate": false
+        },
+        {
+          "printfile_id": 222,
+          "width": 3000,
+          "height": 1800,
+          "dpi": 300,
+          "fill_mode": "fit",
+          "can_rotate": false
+        },
+        {
+          "printfile_id": 396,
+          "width": 600,
+          "height": 900,
+          "dpi": 300,
+          "fill_mode": "fit",
+          "can_rotate": false
+        }
+      ]
+    }
+  },
+  "total_variants": 254
+}

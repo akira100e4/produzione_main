@@ -1,0 +1,6110 @@
+{
+  "search_timestamp": 1758737407.093118,
+  "product_info": {
+    "id": 145,
+    "name": "Unisex Crew Neck Sweatshirt | Gildan 18000",
+    "brand": "Gildan",
+    "model": "18000",
+    "type": "T-SHIRT",
+    "type_name": "Sweatshirt",
+    "image": "https://files.cdn.printful.com/o/upload/product-catalog-img/c4/c45dccb582df772f84fcafde9b726096_l",
+    "currency": "EUR",
+    "variant_count": 177
+  },
+  "variants": [
+    {
+      "variant_id": 18759,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Ash / 2XL)",
+      "size": "2XL",
+      "color": "Ash",
+      "color_code": "#ededed",
+      "price": "18.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/18755_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 18760,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Ash / 3XL)",
+      "size": "3XL",
+      "color": "Ash",
+      "color_code": "#ededed",
+      "price": "20.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/18755_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 18761,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Ash / 4XL)",
+      "size": "4XL",
+      "color": "Ash",
+      "color_code": "#ededed",
+      "price": "21.75",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/18755_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 18762,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Ash / 5XL)",
+      "size": "5XL",
+      "color": "Ash",
+      "color_code": "#ededed",
+      "price": "23.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/18755_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 18757,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Ash / L)",
+      "size": "L",
+      "color": "Ash",
+      "color_code": "#ededed",
+      "price": "16.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/18755_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 18756,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Ash / M)",
+      "size": "M",
+      "color": "Ash",
+      "color_code": "#ededed",
+      "price": "16.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/18755_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 18755,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Ash / S)",
+      "size": "S",
+      "color": "Ash",
+      "color_code": "#ededed",
+      "price": "16.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/18755_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 18758,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Ash / XL)",
+      "size": "XL",
+      "color": "Ash",
+      "color_code": "#ededed",
+      "price": "16.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/18755_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5438,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Black / 2XL)",
+      "size": "2XL",
+      "color": "Black",
+      "color_code": "#0b0b0b",
+      "price": "15.80",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5434_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "BR",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "BR": "Brazil"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5439,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Black / 3XL)",
+      "size": "3XL",
+      "color": "Black",
+      "color_code": "#0b0b0b",
+      "price": "17.10",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5434_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5440,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Black / 4XL)",
+      "size": "4XL",
+      "color": "Black",
+      "color_code": "#0b0b0b",
+      "price": "18.40",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5434_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5441,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Black / 5XL)",
+      "size": "5XL",
+      "color": "Black",
+      "color_code": "#0b0b0b",
+      "price": "19.70",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5434_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5436,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Black / L)",
+      "size": "L",
+      "color": "Black",
+      "color_code": "#0b0b0b",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5434_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        },
+        {
+          "region": "BR",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan",
+        "BR": "Brazil"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5435,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Black / M)",
+      "size": "M",
+      "color": "Black",
+      "color_code": "#0b0b0b",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5434_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5434,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Black / S)",
+      "size": "S",
+      "color": "Black",
+      "color_code": "#0b0b0b",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5434_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        },
+        {
+          "region": "BR",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan",
+        "BR": "Brazil"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5437,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Black / XL)",
+      "size": "XL",
+      "color": "Black",
+      "color_code": "#0b0b0b",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5434_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        },
+        {
+          "region": "BR",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan",
+        "BR": "Brazil"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 20598,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Carolina Blue / 2XL)",
+      "size": "2XL",
+      "color": "Carolina Blue",
+      "color_code": "#8DB7F6",
+      "price": "15.80",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/20594_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 20599,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Carolina Blue / 3XL)",
+      "size": "3XL",
+      "color": "Carolina Blue",
+      "color_code": "#8DB7F6",
+      "price": "17.10",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/20594_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 20596,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Carolina Blue / L)",
+      "size": "L",
+      "color": "Carolina Blue",
+      "color_code": "#8DB7F6",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/20594_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 20595,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Carolina Blue / M)",
+      "size": "M",
+      "color": "Carolina Blue",
+      "color_code": "#8DB7F6",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/20594_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 20594,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Carolina Blue / S)",
+      "size": "S",
+      "color": "Carolina Blue",
+      "color_code": "#8DB7F6",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/20594_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 20597,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Carolina Blue / XL)",
+      "size": "XL",
+      "color": "Carolina Blue",
+      "color_code": "#8DB7F6",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/20594_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 16886,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Charcoal / 2XL)",
+      "size": "2XL",
+      "color": "Charcoal",
+      "color_code": "#534E4A",
+      "price": "15.80",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/16882_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 16887,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Charcoal / 3XL)",
+      "size": "3XL",
+      "color": "Charcoal",
+      "color_code": "#534E4A",
+      "price": "17.10",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/16882_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 22661,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Charcoal / 4XL)",
+      "size": "4XL",
+      "color": "Charcoal",
+      "color_code": "#534E4A",
+      "price": "18.40",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/16882_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 22662,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Charcoal / 5XL)",
+      "size": "5XL",
+      "color": "Charcoal",
+      "color_code": "#534E4A",
+      "price": "23.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/16882_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 16884,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Charcoal / L)",
+      "size": "L",
+      "color": "Charcoal",
+      "color_code": "#534E4A",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/16882_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 16883,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Charcoal / M)",
+      "size": "M",
+      "color": "Charcoal",
+      "color_code": "#534E4A",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/16882_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 16882,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Charcoal / S)",
+      "size": "S",
+      "color": "Charcoal",
+      "color_code": "#534E4A",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/16882_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 16885,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Charcoal / XL)",
+      "size": "XL",
+      "color": "Charcoal",
+      "color_code": "#534E4A",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/16882_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5462,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Dark Chocolate / 2XL)",
+      "size": "2XL",
+      "color": "Dark Chocolate",
+      "color_code": "#35241b",
+      "price": "18.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5458_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5463,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Dark Chocolate / 3XL)",
+      "size": "3XL",
+      "color": "Dark Chocolate",
+      "color_code": "#35241b",
+      "price": "20.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5458_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5464,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Dark Chocolate / 4XL)",
+      "size": "4XL",
+      "color": "Dark Chocolate",
+      "color_code": "#35241b",
+      "price": "21.75",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5458_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5465,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Dark Chocolate / 5XL)",
+      "size": "5XL",
+      "color": "Dark Chocolate",
+      "color_code": "#35241b",
+      "price": "23.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5458_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5460,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Dark Chocolate / L)",
+      "size": "L",
+      "color": "Dark Chocolate",
+      "color_code": "#35241b",
+      "price": "16.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5458_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5459,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Dark Chocolate / M)",
+      "size": "M",
+      "color": "Dark Chocolate",
+      "color_code": "#35241b",
+      "price": "16.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5458_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5458,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Dark Chocolate / S)",
+      "size": "S",
+      "color": "Dark Chocolate",
+      "color_code": "#35241b",
+      "price": "16.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5458_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5461,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Dark Chocolate / XL)",
+      "size": "XL",
+      "color": "Dark Chocolate",
+      "color_code": "#35241b",
+      "price": "16.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5458_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 10837,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Dark Heather / 2XL)",
+      "size": "2XL",
+      "color": "Dark Heather",
+      "color_code": "#46484d",
+      "price": "15.80",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/10833_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 10838,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Dark Heather / 3XL)",
+      "size": "3XL",
+      "color": "Dark Heather",
+      "color_code": "#46484d",
+      "price": "17.10",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/10833_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 10839,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Dark Heather / 4XL)",
+      "size": "4XL",
+      "color": "Dark Heather",
+      "color_code": "#46484d",
+      "price": "21.75",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/10833_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 10840,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Dark Heather / 5XL)",
+      "size": "5XL",
+      "color": "Dark Heather",
+      "color_code": "#46484d",
+      "price": "23.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/10833_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 10835,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Dark Heather / L)",
+      "size": "L",
+      "color": "Dark Heather",
+      "color_code": "#46484d",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/10833_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 10834,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Dark Heather / M)",
+      "size": "M",
+      "color": "Dark Heather",
+      "color_code": "#46484d",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/10833_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 10833,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Dark Heather / S)",
+      "size": "S",
+      "color": "Dark Heather",
+      "color_code": "#46484d",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/10833_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 10836,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Dark Heather / XL)",
+      "size": "XL",
+      "color": "Dark Heather",
+      "color_code": "#46484d",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/10833_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 18767,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Forest Green / 2XL)",
+      "size": "2XL",
+      "color": "Forest Green",
+      "color_code": "#1A3626",
+      "price": "15.80",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/18763_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 18768,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Forest Green / 3XL)",
+      "size": "3XL",
+      "color": "Forest Green",
+      "color_code": "#1A3626",
+      "price": "17.10",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/18763_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 18769,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Forest Green / 4XL)",
+      "size": "4XL",
+      "color": "Forest Green",
+      "color_code": "#1A3626",
+      "price": "21.75",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/18763_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 18770,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Forest Green / 5XL)",
+      "size": "5XL",
+      "color": "Forest Green",
+      "color_code": "#1A3626",
+      "price": "23.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/18763_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 18765,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Forest Green / L)",
+      "size": "L",
+      "color": "Forest Green",
+      "color_code": "#1A3626",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/18763_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 18764,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Forest Green / M)",
+      "size": "M",
+      "color": "Forest Green",
+      "color_code": "#1A3626",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/18763_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 18763,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Forest Green / S)",
+      "size": "S",
+      "color": "Forest Green",
+      "color_code": "#1A3626",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/18763_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 18766,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Forest Green / XL)",
+      "size": "XL",
+      "color": "Forest Green",
+      "color_code": "#1A3626",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/18763_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 20582,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Gold / 2XL)",
+      "size": "2XL",
+      "color": "Gold",
+      "color_code": "#FFAF24",
+      "price": "18.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/20578_1753765556.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 20583,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Gold / 3XL)",
+      "size": "3XL",
+      "color": "Gold",
+      "color_code": "#FFAF24",
+      "price": "20.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/20578_1753765556.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 20580,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Gold / L)",
+      "size": "L",
+      "color": "Gold",
+      "color_code": "#FFAF24",
+      "price": "16.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/20578_1753765556.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 20579,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Gold / M)",
+      "size": "M",
+      "color": "Gold",
+      "color_code": "#FFAF24",
+      "price": "16.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/20578_1753765556.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 20578,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Gold / S)",
+      "size": "S",
+      "color": "Gold",
+      "color_code": "#FFAF24",
+      "price": "16.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/20578_1753765556.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 20581,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Gold / XL)",
+      "size": "XL",
+      "color": "Gold",
+      "color_code": "#FFAF24",
+      "price": "16.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/20578_1753765556.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 22646,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Graphite Heather / 2XL)",
+      "size": "2XL",
+      "color": "Graphite Heather",
+      "color_code": "#686868",
+      "price": "15.80",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/22642_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 22647,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Graphite Heather / 3XL)",
+      "size": "3XL",
+      "color": "Graphite Heather",
+      "color_code": "#686868",
+      "price": "17.10",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/22642_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 22648,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Graphite Heather / 4XL)",
+      "size": "4XL",
+      "color": "Graphite Heather",
+      "color_code": "#686868",
+      "price": "18.40",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/22642_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 22649,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Graphite Heather / 5XL)",
+      "size": "5XL",
+      "color": "Graphite Heather",
+      "color_code": "#686868",
+      "price": "19.70",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/22642_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 22644,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Graphite Heather / L)",
+      "size": "L",
+      "color": "Graphite Heather",
+      "color_code": "#686868",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/22642_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 22643,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Graphite Heather / M)",
+      "size": "M",
+      "color": "Graphite Heather",
+      "color_code": "#686868",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/22642_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 22642,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Graphite Heather / S)",
+      "size": "S",
+      "color": "Graphite Heather",
+      "color_code": "#686868",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/22642_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 22645,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Graphite Heather / XL)",
+      "size": "XL",
+      "color": "Graphite Heather",
+      "color_code": "#686868",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/22642_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 23661,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Heather Deep Royal / 2XL)",
+      "size": "2XL",
+      "color": "Heather Deep Royal",
+      "color_code": "#6898f2",
+      "price": "18.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/23657_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 23662,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Heather Deep Royal / 3XL)",
+      "size": "3XL",
+      "color": "Heather Deep Royal",
+      "color_code": "#6898f2",
+      "price": "20.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/23657_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 23659,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Heather Deep Royal / L)",
+      "size": "L",
+      "color": "Heather Deep Royal",
+      "color_code": "#6898f2",
+      "price": "16.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/23657_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 23658,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Heather Deep Royal / M)",
+      "size": "M",
+      "color": "Heather Deep Royal",
+      "color_code": "#6898f2",
+      "price": "16.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/23657_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 23657,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Heather Deep Royal / S)",
+      "size": "S",
+      "color": "Heather Deep Royal",
+      "color_code": "#6898f2",
+      "price": "16.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/23657_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 23660,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Heather Deep Royal / XL)",
+      "size": "XL",
+      "color": "Heather Deep Royal",
+      "color_code": "#6898f2",
+      "price": "16.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/23657_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 20590,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Heliconia / 2XL)",
+      "size": "2XL",
+      "color": "Heliconia",
+      "color_code": "#F63880",
+      "price": "18.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/20586_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 20591,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Heliconia / 3XL)",
+      "size": "3XL",
+      "color": "Heliconia",
+      "color_code": "#F63880",
+      "price": "20.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/20586_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 20592,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Heliconia / 4XL)",
+      "size": "4XL",
+      "color": "Heliconia",
+      "color_code": "#F63880",
+      "price": "21.75",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/20586_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 20593,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Heliconia / 5XL)",
+      "size": "5XL",
+      "color": "Heliconia",
+      "color_code": "#F63880",
+      "price": "23.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/20586_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 20588,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Heliconia / L)",
+      "size": "L",
+      "color": "Heliconia",
+      "color_code": "#F63880",
+      "price": "16.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/20586_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 20587,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Heliconia / M)",
+      "size": "M",
+      "color": "Heliconia",
+      "color_code": "#F63880",
+      "price": "16.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/20586_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 20586,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Heliconia / S)",
+      "size": "S",
+      "color": "Heliconia",
+      "color_code": "#F63880",
+      "price": "16.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/20586_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 20589,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Heliconia / XL)",
+      "size": "XL",
+      "color": "Heliconia",
+      "color_code": "#F63880",
+      "price": "16.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/20586_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5470,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Indigo Blue / 2XL)",
+      "size": "2XL",
+      "color": "Indigo Blue",
+      "color_code": "#395d82",
+      "price": "15.80",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5466_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada",
+        "UK": "United Kingdom"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5471,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Indigo Blue / 3XL)",
+      "size": "3XL",
+      "color": "Indigo Blue",
+      "color_code": "#395d82",
+      "price": "17.10",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5466_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5468,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Indigo Blue / L)",
+      "size": "L",
+      "color": "Indigo Blue",
+      "color_code": "#395d82",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5466_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada",
+        "UK": "United Kingdom"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5467,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Indigo Blue / M)",
+      "size": "M",
+      "color": "Indigo Blue",
+      "color_code": "#395d82",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5466_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada",
+        "UK": "United Kingdom"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5466,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Indigo Blue / S)",
+      "size": "S",
+      "color": "Indigo Blue",
+      "color_code": "#395d82",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5466_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada",
+        "UK": "United Kingdom"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5469,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Indigo Blue / XL)",
+      "size": "XL",
+      "color": "Indigo Blue",
+      "color_code": "#395d82",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5466_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada",
+        "UK": "United Kingdom"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5454,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Irish Green / 2XL)",
+      "size": "2XL",
+      "color": "Irish Green",
+      "color_code": "#00B365",
+      "price": "18.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5450_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5455,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Irish Green / 3XL)",
+      "size": "3XL",
+      "color": "Irish Green",
+      "color_code": "#00B365",
+      "price": "20.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5450_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5456,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Irish Green / 4XL)",
+      "size": "4XL",
+      "color": "Irish Green",
+      "color_code": "#00B365",
+      "price": "21.75",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5450_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5457,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Irish Green / 5XL)",
+      "size": "5XL",
+      "color": "Irish Green",
+      "color_code": "#00B365",
+      "price": "23.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5450_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5452,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Irish Green / L)",
+      "size": "L",
+      "color": "Irish Green",
+      "color_code": "#00B365",
+      "price": "16.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5450_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5451,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Irish Green / M)",
+      "size": "M",
+      "color": "Irish Green",
+      "color_code": "#00B365",
+      "price": "16.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5450_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5450,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Irish Green / S)",
+      "size": "S",
+      "color": "Irish Green",
+      "color_code": "#00B365",
+      "price": "16.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5450_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5453,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Irish Green / XL)",
+      "size": "XL",
+      "color": "Irish Green",
+      "color_code": "#00B365",
+      "price": "16.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5450_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 7864,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Light Blue / 2XL)",
+      "size": "2XL",
+      "color": "Light Blue",
+      "color_code": "#a1c5e1",
+      "price": "15.80",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/7860_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 7865,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Light Blue / 3XL)",
+      "size": "3XL",
+      "color": "Light Blue",
+      "color_code": "#a1c5e1",
+      "price": "17.10",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/7860_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 7862,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Light Blue / L)",
+      "size": "L",
+      "color": "Light Blue",
+      "color_code": "#a1c5e1",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/7860_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 7861,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Light Blue / M)",
+      "size": "M",
+      "color": "Light Blue",
+      "color_code": "#a1c5e1",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/7860_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 7860,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Light Blue / S)",
+      "size": "S",
+      "color": "Light Blue",
+      "color_code": "#a1c5e1",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/7860_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 7863,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Light Blue / XL)",
+      "size": "XL",
+      "color": "Light Blue",
+      "color_code": "#a1c5e1",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/7860_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 7872,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Light Pink / 2XL)",
+      "size": "2XL",
+      "color": "Light Pink",
+      "color_code": "#f3d4e3",
+      "price": "15.80",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/7868_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 7873,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Light Pink / 3XL)",
+      "size": "3XL",
+      "color": "Light Pink",
+      "color_code": "#f3d4e3",
+      "price": "17.10",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/7868_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 7870,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Light Pink / L)",
+      "size": "L",
+      "color": "Light Pink",
+      "color_code": "#f3d4e3",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/7868_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 7869,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Light Pink / M)",
+      "size": "M",
+      "color": "Light Pink",
+      "color_code": "#f3d4e3",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/7868_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 7868,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Light Pink / S)",
+      "size": "S",
+      "color": "Light Pink",
+      "color_code": "#f3d4e3",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/7868_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 7871,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Light Pink / XL)",
+      "size": "XL",
+      "color": "Light Pink",
+      "color_code": "#f3d4e3",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/7868_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5494,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Maroon / 2XL)",
+      "size": "2XL",
+      "color": "Maroon",
+      "color_code": "#651d32",
+      "price": "15.80",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5490_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5492,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Maroon / L)",
+      "size": "L",
+      "color": "Maroon",
+      "color_code": "#651d32",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5490_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5491,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Maroon / M)",
+      "size": "M",
+      "color": "Maroon",
+      "color_code": "#651d32",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5490_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5490,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Maroon / S)",
+      "size": "S",
+      "color": "Maroon",
+      "color_code": "#651d32",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5490_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5493,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Maroon / XL)",
+      "size": "XL",
+      "color": "Maroon",
+      "color_code": "#651d32",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5490_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 13009,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Military Green / 2XL)",
+      "size": "2XL",
+      "color": "Military Green",
+      "color_code": "#7e8560",
+      "price": "15.80",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/13005_1753765556.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 13010,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Military Green / 3XL)",
+      "size": "3XL",
+      "color": "Military Green",
+      "color_code": "#7e8560",
+      "price": "17.10",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/13005_1753765556.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 13007,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Military Green / L)",
+      "size": "L",
+      "color": "Military Green",
+      "color_code": "#7e8560",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/13005_1753765556.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 13006,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Military Green / M)",
+      "size": "M",
+      "color": "Military Green",
+      "color_code": "#7e8560",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/13005_1753765556.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 13005,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Military Green / S)",
+      "size": "S",
+      "color": "Military Green",
+      "color_code": "#7e8560",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/13005_1753765556.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 13008,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Military Green / XL)",
+      "size": "XL",
+      "color": "Military Green",
+      "color_code": "#7e8560",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/13005_1753765556.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5502,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Navy / 2XL)",
+      "size": "2XL",
+      "color": "Navy",
+      "color_code": "#050c1d",
+      "price": "15.80",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5498_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "BR",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "BR": "Brazil"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5503,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Navy / 3XL)",
+      "size": "3XL",
+      "color": "Navy",
+      "color_code": "#050c1d",
+      "price": "17.10",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5498_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5504,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Navy / 4XL)",
+      "size": "4XL",
+      "color": "Navy",
+      "color_code": "#050c1d",
+      "price": "21.75",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5498_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5505,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Navy / 5XL)",
+      "size": "5XL",
+      "color": "Navy",
+      "color_code": "#050c1d",
+      "price": "23.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5498_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5500,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Navy / L)",
+      "size": "L",
+      "color": "Navy",
+      "color_code": "#050c1d",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5498_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        },
+        {
+          "region": "BR",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan",
+        "BR": "Brazil"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5499,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Navy / M)",
+      "size": "M",
+      "color": "Navy",
+      "color_code": "#050c1d",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5498_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        },
+        {
+          "region": "BR",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan",
+        "BR": "Brazil"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5498,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Navy / S)",
+      "size": "S",
+      "color": "Navy",
+      "color_code": "#050c1d",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5498_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        },
+        {
+          "region": "BR",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan",
+        "BR": "Brazil"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5501,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Navy / XL)",
+      "size": "XL",
+      "color": "Navy",
+      "color_code": "#050c1d",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5498_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        },
+        {
+          "region": "BR",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan",
+        "BR": "Brazil"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 22654,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Orange / 2XL)",
+      "size": "2XL",
+      "color": "Orange",
+      "color_code": "#ff5723",
+      "price": "15.80",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/22650_1753765556.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 22655,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Orange / 3XL)",
+      "size": "3XL",
+      "color": "Orange",
+      "color_code": "#ff5723",
+      "price": "17.10",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/22650_1753765556.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 22656,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Orange / 4XL)",
+      "size": "4XL",
+      "color": "Orange",
+      "color_code": "#ff5723",
+      "price": "18.40",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/22650_1753765556.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 22657,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Orange / 5XL)",
+      "size": "5XL",
+      "color": "Orange",
+      "color_code": "#ff5723",
+      "price": "19.70",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/22650_1753765556.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 22652,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Orange / L)",
+      "size": "L",
+      "color": "Orange",
+      "color_code": "#ff5723",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/22650_1753765556.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 22651,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Orange / M)",
+      "size": "M",
+      "color": "Orange",
+      "color_code": "#ff5723",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/22650_1753765556.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 22650,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Orange / S)",
+      "size": "S",
+      "color": "Orange",
+      "color_code": "#ff5723",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/22650_1753765556.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 22653,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Orange / XL)",
+      "size": "XL",
+      "color": "Orange",
+      "color_code": "#ff5723",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/22650_1753765556.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 20606,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Purple / 2XL)",
+      "size": "2XL",
+      "color": "Purple",
+      "color_code": "#4A1C7D",
+      "price": "18.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/20602_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 20607,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Purple / 3XL)",
+      "size": "3XL",
+      "color": "Purple",
+      "color_code": "#4A1C7D",
+      "price": "20.25",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/20602_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 20604,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Purple / L)",
+      "size": "L",
+      "color": "Purple",
+      "color_code": "#4A1C7D",
+      "price": "16.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/20602_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 20603,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Purple / M)",
+      "size": "M",
+      "color": "Purple",
+      "color_code": "#4A1C7D",
+      "price": "16.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/20602_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 20602,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Purple / S)",
+      "size": "S",
+      "color": "Purple",
+      "color_code": "#4A1C7D",
+      "price": "16.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/20602_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 20605,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Purple / XL)",
+      "size": "XL",
+      "color": "Purple",
+      "color_code": "#4A1C7D",
+      "price": "16.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/20602_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5446,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Red / 2XL)",
+      "size": "2XL",
+      "color": "Red",
+      "color_code": "#da0a1a",
+      "price": "15.80",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5442_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5447,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Red / 3XL)",
+      "size": "3XL",
+      "color": "Red",
+      "color_code": "#da0a1a",
+      "price": "17.10",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5442_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5448,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Red / 4XL)",
+      "size": "4XL",
+      "color": "Red",
+      "color_code": "#da0a1a",
+      "price": "21.75",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5442_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5449,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Red / 5XL)",
+      "size": "5XL",
+      "color": "Red",
+      "color_code": "#da0a1a",
+      "price": "23.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5442_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5444,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Red / L)",
+      "size": "L",
+      "color": "Red",
+      "color_code": "#da0a1a",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5442_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5443,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Red / M)",
+      "size": "M",
+      "color": "Red",
+      "color_code": "#da0a1a",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5442_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5442,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Red / S)",
+      "size": "S",
+      "color": "Red",
+      "color_code": "#da0a1a",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5442_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5445,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Red / XL)",
+      "size": "XL",
+      "color": "Red",
+      "color_code": "#da0a1a",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5442_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 16874,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Royal / 2XL)",
+      "size": "2XL",
+      "color": "Royal",
+      "color_code": "#1D50A4",
+      "price": "15.80",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/16870_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 16875,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Royal / 3XL)",
+      "size": "3XL",
+      "color": "Royal",
+      "color_code": "#1D50A4",
+      "price": "17.10",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/16870_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 16872,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Royal / L)",
+      "size": "L",
+      "color": "Royal",
+      "color_code": "#1D50A4",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/16870_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 16871,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Royal / M)",
+      "size": "M",
+      "color": "Royal",
+      "color_code": "#1D50A4",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/16870_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 16870,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Royal / S)",
+      "size": "S",
+      "color": "Royal",
+      "color_code": "#1D50A4",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/16870_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 16873,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Royal / XL)",
+      "size": "XL",
+      "color": "Royal",
+      "color_code": "#1D50A4",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/16870_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 16880,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Sand / 2XL)",
+      "size": "2XL",
+      "color": "Sand",
+      "color_code": "#e7d3b3",
+      "price": "15.80",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/16876_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 16881,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Sand / 3XL)",
+      "size": "3XL",
+      "color": "Sand",
+      "color_code": "#e7d3b3",
+      "price": "17.10",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/16876_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 16878,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Sand / L)",
+      "size": "L",
+      "color": "Sand",
+      "color_code": "#e7d3b3",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/16876_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 16877,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Sand / M)",
+      "size": "M",
+      "color": "Sand",
+      "color_code": "#e7d3b3",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/16876_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 16876,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Sand / S)",
+      "size": "S",
+      "color": "Sand",
+      "color_code": "#e7d3b3",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/16876_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 16879,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Sand / XL)",
+      "size": "XL",
+      "color": "Sand",
+      "color_code": "#e7d3b3",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/16876_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "CA": "Canada"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5518,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Sport Grey / 2XL)",
+      "size": "2XL",
+      "color": "Sport Grey",
+      "color_code": "#ccccce",
+      "price": "15.80",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5514_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5519,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Sport Grey / 3XL)",
+      "size": "3XL",
+      "color": "Sport Grey",
+      "color_code": "#ccccce",
+      "price": "17.10",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5514_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5520,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Sport Grey / 4XL)",
+      "size": "4XL",
+      "color": "Sport Grey",
+      "color_code": "#ccccce",
+      "price": "18.40",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5514_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5521,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Sport Grey / 5XL)",
+      "size": "5XL",
+      "color": "Sport Grey",
+      "color_code": "#ccccce",
+      "price": "19.70",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5514_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5516,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Sport Grey / L)",
+      "size": "L",
+      "color": "Sport Grey",
+      "color_code": "#ccccce",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5514_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "JP": "Japan"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5515,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Sport Grey / M)",
+      "size": "M",
+      "color": "Sport Grey",
+      "color_code": "#ccccce",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5514_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5514,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Sport Grey / S)",
+      "size": "S",
+      "color": "Sport Grey",
+      "color_code": "#ccccce",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5514_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5517,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Sport Grey / XL)",
+      "size": "XL",
+      "color": "Sport Grey",
+      "color_code": "#ccccce",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5514_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5430,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (White / 2XL)",
+      "size": "2XL",
+      "color": "White",
+      "color_code": "#ffffff",
+      "price": "15.80",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5426_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5431,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (White / 3XL)",
+      "size": "3XL",
+      "color": "White",
+      "color_code": "#ffffff",
+      "price": "17.10",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5426_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5432,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (White / 4XL)",
+      "size": "4XL",
+      "color": "White",
+      "color_code": "#ffffff",
+      "price": "18.40",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5426_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5433,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (White / 5XL)",
+      "size": "5XL",
+      "color": "White",
+      "color_code": "#ffffff",
+      "price": "19.70",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5426_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "UK": "United Kingdom"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5428,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (White / L)",
+      "size": "L",
+      "color": "White",
+      "color_code": "#ffffff",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5426_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5427,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (White / M)",
+      "size": "M",
+      "color": "White",
+      "color_code": "#ffffff",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5426_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        },
+        {
+          "region": "BR",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan",
+        "BR": "Brazil"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5426,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (White / S)",
+      "size": "S",
+      "color": "White",
+      "color_code": "#ffffff",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5426_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        },
+        {
+          "region": "BR",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan",
+        "BR": "Brazil"
+      },
+      "product_id": 145
+    },
+    {
+      "variant_id": 5429,
+      "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (White / XL)",
+      "size": "XL",
+      "color": "White",
+      "color_code": "#ffffff",
+      "price": "14.50",
+      "currency": null,
+      "image": "https://files.cdn.printful.com/products/145/5426_1753765555.jpg",
+      "availability_status": [
+        {
+          "region": "US",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_LV",
+          "status": "in_stock"
+        },
+        {
+          "region": "EU_ES",
+          "status": "in_stock"
+        },
+        {
+          "region": "CA",
+          "status": "in_stock"
+        },
+        {
+          "region": "UK",
+          "status": "in_stock"
+        },
+        {
+          "region": "AU",
+          "status": "in_stock"
+        },
+        {
+          "region": "JP",
+          "status": "in_stock"
+        },
+        {
+          "region": "BR",
+          "status": "in_stock"
+        }
+      ],
+      "availability_regions": {
+        "US": "United States",
+        "EU": "Europe",
+        "EU_LV": "Latvia",
+        "EU_ES": "Spain",
+        "CA": "Canada",
+        "UK": "United Kingdom",
+        "AU": "Australia",
+        "JP": "Japan",
+        "BR": "Brazil"
+      },
+      "product_id": 145
+    }
+  ],
+  "file_info": {
+    "available_placements": {
+      "front": "Front print",
+      "back": "Back print",
+      "label_outside": "Outside label",
+      "sleeve_right": "Right sleeve",
+      "sleeve_left": "Left sleeve",
+      "label_inside_dtf": "Inside label",
+      "embroidery_wrist_left": "Left wrist",
+      "embroidery_wrist_right": "Right wrist"
+    },
+    "print_files": [
+      {
+        "printfile_id": 1,
+        "width": 1800,
+        "height": 2400,
+        "dpi": 150,
+        "fill_mode": "fit",
+        "can_rotate": false
+      },
+      {
+        "printfile_id": 71,
+        "width": 450,
+        "height": 450,
+        "dpi": 150,
+        "fill_mode": "fit",
+        "can_rotate": false
+      },
+      {
+        "printfile_id": 90,
+        "width": 450,
+        "height": 450,
+        "dpi": 150,
+        "fill_mode": "fit",
+        "can_rotate": false
+      },
+      {
+        "printfile_id": 147,
+        "width": 450,
+        "height": 1800,
+        "dpi": 150,
+        "fill_mode": "fit",
+        "can_rotate": false
+      },
+      {
+        "printfile_id": 396,
+        "width": 600,
+        "height": 900,
+        "dpi": 300,
+        "fill_mode": "fit",
+        "can_rotate": false
+      }
+    ],
+    "techniques": [
+      {
+        "key": "DTG",
+        "display_name": "DTG printing",
+        "is_default": true
+      },
+      {
+        "key": "EMBROIDERY",
+        "display_name": "Embroidery",
+        "is_default": false
+      },
+      {
+        "key": "DTFILM",
+        "display_name": "DTF printing",
+        "is_default": false
+      }
+    ],
+    "embroidery_info": {
+      "available_placements": {
+        "embroidery_chest_left": "Left chest",
+        "embroidery_chest_center": "Center chest",
+        "embroidery_large_center": "Large center",
+        "embroidery_wrist_left": "Left wrist",
+        "embroidery_wrist_right": "Right wrist",
+        "back": "Back print",
+        "label_outside": "Outside label",
+        "label_inside_dtf": "Inside label"
+      },
+      "print_files": [
+        {
+          "printfile_id": 1,
+          "width": 1800,
+          "height": 2400,
+          "dpi": 150,
+          "fill_mode": "fit",
+          "can_rotate": false
+        },
+        {
+          "printfile_id": 71,
+          "width": 450,
+          "height": 450,
+          "dpi": 150,
+          "fill_mode": "fit",
+          "can_rotate": false
+        },
+        {
+          "printfile_id": 90,
+          "width": 450,
+          "height": 450,
+          "dpi": 150,
+          "fill_mode": "fit",
+          "can_rotate": false
+        },
+        {
+          "printfile_id": 136,
+          "width": 1200,
+          "height": 1200,
+          "dpi": 300,
+          "fill_mode": "fit",
+          "can_rotate": false
+        },
+        {
+          "printfile_id": 222,
+          "width": 3000,
+          "height": 1800,
+          "dpi": 300,
+          "fill_mode": "fit",
+          "can_rotate": false
+        },
+        {
+          "printfile_id": 396,
+          "width": 600,
+          "height": 900,
+          "dpi": 300,
+          "fill_mode": "fit",
+          "can_rotate": false
+        }
+      ]
+    }
+  },
+  "total_variants": 177
+}

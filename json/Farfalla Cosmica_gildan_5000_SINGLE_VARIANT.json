@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "product_id": null,
+  "sync_product": {},
+  "sync_variants": [],
+  "variant_created": {
+    "variant_id": 14975,
+    "size": "L",
+    "color": "Ash",
+    "price": 6.25,
+    "name": "Unisex Classic Tee | Gildan 5000 (Ash / L)",
+    "color_code": "#f3f3f3",
+    "currency": null,
+    "image": "https://files.cdn.printful.com/products/438/14975_1652249475.jpg",
+    "availability_status": [
+      {
+        "region": "US",
+        "status": "in_stock"
+      },
+      {
+        "region": "EU",
+        "status": "in_stock"
+      },
+      {
+        "region": "EU_LV",
+        "status": "in_stock"
+      },
+      {
+        "region": "UK",
+        "status": "in_stock"
+      }
+    ],
+    "availability_regions": {
+      "US": "United States",
+      "EU": "Europe",
+      "EU_LV": "Latvia",
+      "UK": "United Kingdom"
+    },
+    "product_id": 438
+  },
+  "urls": {
+    "design_url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984369/onlyone_Farfalla%20Cosmica_1758984368.png",
+    "logo_url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984370/onlyone_universal_logo_1758984370.png",
+    "upscaled_url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984372/transparent_Farfalla%20Cosmica_1758984371.png"
+  }
+}

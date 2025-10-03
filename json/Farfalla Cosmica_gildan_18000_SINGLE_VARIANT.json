@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "product_id": null,
+  "sync_product": {},
+  "sync_variants": [],
+  "variant_created": {
+    "variant_id": 18757,
+    "size": "L",
+    "color": "Ash",
+    "price": 16.5,
+    "name": "Gildan 18000 Unisex Heavy Blend Crewneck Sweatshirt (Ash / L)",
+    "color_code": "#ededed",
+    "currency": null,
+    "image": "https://files.cdn.printful.com/products/145/18755_1753765555.jpg",
+    "availability_status": [
+      {
+        "region": "US",
+        "status": "in_stock"
+      }
+    ],
+    "availability_regions": {
+      "US": "United States"
+    },
+    "product_id": 145
+  },
+  "urls": {
+    "design_url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984011/onlyone_Farfalla%20Cosmica_1758984010.png",
+    "logo_url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984012/onlyone_universal_logo_1758984011.png",
+    "upscaled_url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984014/transparent_Farfalla%20Cosmica_1758984013.png"
+  }
+}

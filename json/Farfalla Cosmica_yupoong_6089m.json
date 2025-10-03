@@ -1,0 +1,3021 @@
+{
+  "success": true,
+  "product_id": 394337682,
+  "sync_product": {
+    "id": 394337682,
+    "external_id": "68d7f9ed13fa63",
+    "name": "Farfalla Cosmica - Yupoong 6089M",
+    "variants": 21,
+    "synced": 21,
+    "thumbnail_url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984681/onlyone_Farfalla%20Cosmica_1758984680.png",
+    "is_ignored": false
+  },
+  "sync_variants": [
+    {
+      "id": 4987013706,
+      "external_id": "68d7f9ed1648b3",
+      "sync_product_id": 394337682,
+      "name": "Farfalla Cosmica - Yupoong 6089M / Black / One size",
+      "synced": true,
+      "variant_id": 4792,
+      "main_category_id": 41,
+      "warehouse_product_id": null,
+      "warehouse_product_variant_id": null,
+      "retail_price": "12.49",
+      "sku": null,
+      "currency": "EUR",
+      "product": {
+        "variant_id": 4792,
+        "product_id": 99,
+        "image": "https://files.cdn.printful.com/products/99/4792_1586154802.jpg",
+        "name": "Yupoong 6089M Wool Blend Snapback (Black)"
+      },
+      "files": [
+        {
+          "id": 879745292,
+          "type": "default",
+          "hash": "652b590c1e7bb31d9b044905434de01e",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984681/onlyone_Farfalla%20Cosmica_1758984680.png",
+          "filename": "onlyone_Farfalla%20Cosmica_1758984680.png",
+          "mime_type": "image/png",
+          "size": 462137,
+          "width": 1031,
+          "height": 1375,
+          "dpi": null,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        },
+        {
+          "id": 879745294,
+          "type": "left",
+          "hash": "23ecde348d45679f61635da299fc5cbd",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984682/onlyone_universal_logo_1758984681.png",
+          "filename": "onlyone_universal_logo_1758984681.png",
+          "mime_type": "image/png",
+          "size": 18795,
+          "width": 335,
+          "height": 505,
+          "dpi": 96,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        }
+      ],
+      "options": [
+        {
+          "id": "embroidery_type",
+          "value": "flat"
+        },
+        {
+          "id": "thread_colors",
+          "value": [
+            "#FFFFFF",
+            "#96A1A8",
+            "#7BA35A",
+            "#A67843",
+            "#660000",
+            "#333366"
+          ]
+        },
+        {
+          "id": "text_thread_colors",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d",
+          "value": []
+        },
+        {
+          "id": "thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "thread_colors_left",
+          "value": [
+            "#96A1A8",
+            "#7BA35A",
+            "#6B5294"
+          ]
+        },
+        {
+          "id": "text_thread_colors_left",
+          "value": []
+        }
+      ],
+      "is_ignored": false,
+      "size": "One size",
+      "color": "Black",
+      "availability_status": "active"
+    },
+    {
+      "id": 4987013707,
+      "external_id": "68d7f9edc0dde5",
+      "sync_product_id": 394337682,
+      "name": "Farfalla Cosmica - Yupoong 6089M / Black/ Neon Pink / One size",
+      "synced": true,
+      "variant_id": 7843,
+      "main_category_id": 41,
+      "warehouse_product_id": null,
+      "warehouse_product_variant_id": null,
+      "retail_price": "12.49",
+      "sku": null,
+      "currency": "EUR",
+      "product": {
+        "variant_id": 7843,
+        "product_id": 99,
+        "image": "https://files.cdn.printful.com/products/99/7843_1586153432.jpg",
+        "name": "Yupoong 6089M Wool Blend Snapback (Black/ Neon Pink)"
+      },
+      "files": [
+        {
+          "id": 879745292,
+          "type": "default",
+          "hash": "652b590c1e7bb31d9b044905434de01e",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984681/onlyone_Farfalla%20Cosmica_1758984680.png",
+          "filename": "onlyone_Farfalla%20Cosmica_1758984680.png",
+          "mime_type": "image/png",
+          "size": 462137,
+          "width": 1031,
+          "height": 1375,
+          "dpi": null,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        },
+        {
+          "id": 879745294,
+          "type": "left",
+          "hash": "23ecde348d45679f61635da299fc5cbd",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984682/onlyone_universal_logo_1758984681.png",
+          "filename": "onlyone_universal_logo_1758984681.png",
+          "mime_type": "image/png",
+          "size": 18795,
+          "width": 335,
+          "height": 505,
+          "dpi": 96,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        }
+      ],
+      "options": [
+        {
+          "id": "embroidery_type",
+          "value": "flat"
+        },
+        {
+          "id": "thread_colors",
+          "value": [
+            "#FFFFFF",
+            "#96A1A8",
+            "#7BA35A",
+            "#A67843",
+            "#660000",
+            "#333366"
+          ]
+        },
+        {
+          "id": "text_thread_colors",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d",
+          "value": []
+        },
+        {
+          "id": "thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "thread_colors_left",
+          "value": [
+            "#96A1A8",
+            "#7BA35A",
+            "#6B5294"
+          ]
+        },
+        {
+          "id": "text_thread_colors_left",
+          "value": []
+        }
+      ],
+      "is_ignored": false,
+      "size": "One size",
+      "color": "Black/ Neon Pink",
+      "availability_status": "active"
+    },
+    {
+      "id": 4987013709,
+      "external_id": "68d7f9ee250e45",
+      "sync_product_id": 394337682,
+      "name": "Farfalla Cosmica - Yupoong 6089M / Black/ Red / One size",
+      "synced": true,
+      "variant_id": 4794,
+      "main_category_id": 41,
+      "warehouse_product_id": null,
+      "warehouse_product_variant_id": null,
+      "retail_price": "12.49",
+      "sku": null,
+      "currency": "EUR",
+      "product": {
+        "variant_id": 4794,
+        "product_id": 99,
+        "image": "https://files.cdn.printful.com/products/99/4794_1586153455.jpg",
+        "name": "Yupoong 6089M Wool Blend Snapback (Black/ Red)"
+      },
+      "files": [
+        {
+          "id": 879745292,
+          "type": "default",
+          "hash": "652b590c1e7bb31d9b044905434de01e",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984681/onlyone_Farfalla%20Cosmica_1758984680.png",
+          "filename": "onlyone_Farfalla%20Cosmica_1758984680.png",
+          "mime_type": "image/png",
+          "size": 462137,
+          "width": 1031,
+          "height": 1375,
+          "dpi": null,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        },
+        {
+          "id": 879745294,
+          "type": "left",
+          "hash": "23ecde348d45679f61635da299fc5cbd",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984682/onlyone_universal_logo_1758984681.png",
+          "filename": "onlyone_universal_logo_1758984681.png",
+          "mime_type": "image/png",
+          "size": 18795,
+          "width": 335,
+          "height": 505,
+          "dpi": 96,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        }
+      ],
+      "options": [
+        {
+          "id": "embroidery_type",
+          "value": "flat"
+        },
+        {
+          "id": "thread_colors",
+          "value": [
+            "#FFFFFF",
+            "#96A1A8",
+            "#7BA35A",
+            "#A67843",
+            "#660000",
+            "#333366"
+          ]
+        },
+        {
+          "id": "text_thread_colors",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d",
+          "value": []
+        },
+        {
+          "id": "thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "thread_colors_left",
+          "value": [
+            "#96A1A8",
+            "#7BA35A",
+            "#6B5294"
+          ]
+        },
+        {
+          "id": "text_thread_colors_left",
+          "value": []
+        }
+      ],
+      "is_ignored": false,
+      "size": "One size",
+      "color": "Black/ Red",
+      "availability_status": "active"
+    },
+    {
+      "id": 4987013710,
+      "external_id": "68d7f9ee806392",
+      "sync_product_id": 394337682,
+      "name": "Farfalla Cosmica - Yupoong 6089M / Black/ Silver / One size",
+      "synced": true,
+      "variant_id": 4795,
+      "main_category_id": 41,
+      "warehouse_product_id": null,
+      "warehouse_product_variant_id": null,
+      "retail_price": "12.49",
+      "sku": null,
+      "currency": "EUR",
+      "product": {
+        "variant_id": 4795,
+        "product_id": 99,
+        "image": "https://files.cdn.printful.com/products/99/4795_1586153478.jpg",
+        "name": "Yupoong 6089M Wool Blend Snapback (Black/ Silver)"
+      },
+      "files": [
+        {
+          "id": 879745292,
+          "type": "default",
+          "hash": "652b590c1e7bb31d9b044905434de01e",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984681/onlyone_Farfalla%20Cosmica_1758984680.png",
+          "filename": "onlyone_Farfalla%20Cosmica_1758984680.png",
+          "mime_type": "image/png",
+          "size": 462137,
+          "width": 1031,
+          "height": 1375,
+          "dpi": null,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        },
+        {
+          "id": 879745294,
+          "type": "left",
+          "hash": "23ecde348d45679f61635da299fc5cbd",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984682/onlyone_universal_logo_1758984681.png",
+          "filename": "onlyone_universal_logo_1758984681.png",
+          "mime_type": "image/png",
+          "size": 18795,
+          "width": 335,
+          "height": 505,
+          "dpi": 96,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        }
+      ],
+      "options": [
+        {
+          "id": "embroidery_type",
+          "value": "flat"
+        },
+        {
+          "id": "thread_colors",
+          "value": [
+            "#FFFFFF",
+            "#96A1A8",
+            "#7BA35A",
+            "#A67843",
+            "#660000",
+            "#333366"
+          ]
+        },
+        {
+          "id": "text_thread_colors",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d",
+          "value": []
+        },
+        {
+          "id": "thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "thread_colors_left",
+          "value": [
+            "#96A1A8",
+            "#7BA35A",
+            "#6B5294"
+          ]
+        },
+        {
+          "id": "text_thread_colors_left",
+          "value": []
+        }
+      ],
+      "is_ignored": false,
+      "size": "One size",
+      "color": "Black/ Silver",
+      "availability_status": "active"
+    },
+    {
+      "id": 4987013711,
+      "external_id": "68d7f9eed63601",
+      "sync_product_id": 394337682,
+      "name": "Farfalla Cosmica - Yupoong 6089M / Black/ Teal / One size",
+      "synced": true,
+      "variant_id": 4796,
+      "main_category_id": 41,
+      "warehouse_product_id": null,
+      "warehouse_product_variant_id": null,
+      "retail_price": "12.49",
+      "sku": null,
+      "currency": "EUR",
+      "product": {
+        "variant_id": 4796,
+        "product_id": 99,
+        "image": "https://files.cdn.printful.com/products/99/4796_1586153589.jpg",
+        "name": "Yupoong 6089M Wool Blend Snapback (Black/ Teal)"
+      },
+      "files": [
+        {
+          "id": 879745292,
+          "type": "default",
+          "hash": "652b590c1e7bb31d9b044905434de01e",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984681/onlyone_Farfalla%20Cosmica_1758984680.png",
+          "filename": "onlyone_Farfalla%20Cosmica_1758984680.png",
+          "mime_type": "image/png",
+          "size": 462137,
+          "width": 1031,
+          "height": 1375,
+          "dpi": null,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        },
+        {
+          "id": 879745294,
+          "type": "left",
+          "hash": "23ecde348d45679f61635da299fc5cbd",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984682/onlyone_universal_logo_1758984681.png",
+          "filename": "onlyone_universal_logo_1758984681.png",
+          "mime_type": "image/png",
+          "size": 18795,
+          "width": 335,
+          "height": 505,
+          "dpi": 96,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        }
+      ],
+      "options": [
+        {
+          "id": "embroidery_type",
+          "value": "flat"
+        },
+        {
+          "id": "thread_colors",
+          "value": [
+            "#FFFFFF",
+            "#96A1A8",
+            "#7BA35A",
+            "#A67843",
+            "#660000",
+            "#333366"
+          ]
+        },
+        {
+          "id": "text_thread_colors",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d",
+          "value": []
+        },
+        {
+          "id": "thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "thread_colors_left",
+          "value": [
+            "#96A1A8",
+            "#7BA35A",
+            "#6B5294"
+          ]
+        },
+        {
+          "id": "text_thread_colors_left",
+          "value": []
+        }
+      ],
+      "is_ignored": false,
+      "size": "One size",
+      "color": "Black/ Teal",
+      "availability_status": "active"
+    },
+    {
+      "id": 4987013712,
+      "external_id": "68d7f9ef39b6d6",
+      "sync_product_id": 394337682,
+      "name": "Farfalla Cosmica - Yupoong 6089M / Dark Grey / One size",
+      "synced": true,
+      "variant_id": 4797,
+      "main_category_id": 41,
+      "warehouse_product_id": null,
+      "warehouse_product_variant_id": null,
+      "retail_price": "12.49",
+      "sku": null,
+      "currency": "EUR",
+      "product": {
+        "variant_id": 4797,
+        "product_id": 99,
+        "image": "https://files.cdn.printful.com/products/99/4797_1586154846.jpg",
+        "name": "Yupoong 6089M Wool Blend Snapback (Dark Grey)"
+      },
+      "files": [
+        {
+          "id": 879745292,
+          "type": "default",
+          "hash": "652b590c1e7bb31d9b044905434de01e",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984681/onlyone_Farfalla%20Cosmica_1758984680.png",
+          "filename": "onlyone_Farfalla%20Cosmica_1758984680.png",
+          "mime_type": "image/png",
+          "size": 462137,
+          "width": 1031,
+          "height": 1375,
+          "dpi": null,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        },
+        {
+          "id": 879745294,
+          "type": "left",
+          "hash": "23ecde348d45679f61635da299fc5cbd",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984682/onlyone_universal_logo_1758984681.png",
+          "filename": "onlyone_universal_logo_1758984681.png",
+          "mime_type": "image/png",
+          "size": 18795,
+          "width": 335,
+          "height": 505,
+          "dpi": 96,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        }
+      ],
+      "options": [
+        {
+          "id": "embroidery_type",
+          "value": "flat"
+        },
+        {
+          "id": "thread_colors",
+          "value": [
+            "#FFFFFF",
+            "#96A1A8",
+            "#7BA35A",
+            "#A67843",
+            "#660000",
+            "#333366"
+          ]
+        },
+        {
+          "id": "text_thread_colors",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d",
+          "value": []
+        },
+        {
+          "id": "thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "thread_colors_left",
+          "value": [
+            "#96A1A8",
+            "#7BA35A",
+            "#6B5294"
+          ]
+        },
+        {
+          "id": "text_thread_colors_left",
+          "value": []
+        }
+      ],
+      "is_ignored": false,
+      "size": "One size",
+      "color": "Dark Grey",
+      "availability_status": "active"
+    },
+    {
+      "id": 4987013713,
+      "external_id": "68d7f9ef93c1a6",
+      "sync_product_id": 394337682,
+      "name": "Farfalla Cosmica - Yupoong 6089M / Dark Navy / One size",
+      "synced": true,
+      "variant_id": 4798,
+      "main_category_id": 41,
+      "warehouse_product_id": null,
+      "warehouse_product_variant_id": null,
+      "retail_price": "12.49",
+      "sku": null,
+      "currency": "EUR",
+      "product": {
+        "variant_id": 4798,
+        "product_id": 99,
+        "image": "https://files.cdn.printful.com/products/99/4798_1586154944.jpg",
+        "name": "Yupoong 6089M Wool Blend Snapback (Dark Navy)"
+      },
+      "files": [
+        {
+          "id": 879745292,
+          "type": "default",
+          "hash": "652b590c1e7bb31d9b044905434de01e",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984681/onlyone_Farfalla%20Cosmica_1758984680.png",
+          "filename": "onlyone_Farfalla%20Cosmica_1758984680.png",
+          "mime_type": "image/png",
+          "size": 462137,
+          "width": 1031,
+          "height": 1375,
+          "dpi": null,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        },
+        {
+          "id": 879745294,
+          "type": "left",
+          "hash": "23ecde348d45679f61635da299fc5cbd",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984682/onlyone_universal_logo_1758984681.png",
+          "filename": "onlyone_universal_logo_1758984681.png",
+          "mime_type": "image/png",
+          "size": 18795,
+          "width": 335,
+          "height": 505,
+          "dpi": 96,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        }
+      ],
+      "options": [
+        {
+          "id": "embroidery_type",
+          "value": "flat"
+        },
+        {
+          "id": "thread_colors",
+          "value": [
+            "#FFFFFF",
+            "#96A1A8",
+            "#7BA35A",
+            "#A67843",
+            "#660000",
+            "#333366"
+          ]
+        },
+        {
+          "id": "text_thread_colors",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d",
+          "value": []
+        },
+        {
+          "id": "thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "thread_colors_left",
+          "value": [
+            "#96A1A8",
+            "#7BA35A",
+            "#6B5294"
+          ]
+        },
+        {
+          "id": "text_thread_colors_left",
+          "value": []
+        }
+      ],
+      "is_ignored": false,
+      "size": "One size",
+      "color": "Dark Navy",
+      "availability_status": "active"
+    },
+    {
+      "id": 4987013714,
+      "external_id": "68d7f9efe9d7f9",
+      "sync_product_id": 394337682,
+      "name": "Farfalla Cosmica - Yupoong 6089M / Green Camo / One size",
+      "synced": true,
+      "variant_id": 7835,
+      "main_category_id": 41,
+      "warehouse_product_id": null,
+      "warehouse_product_variant_id": null,
+      "retail_price": "12.49",
+      "sku": null,
+      "currency": "EUR",
+      "product": {
+        "variant_id": 7835,
+        "product_id": 99,
+        "image": "https://files.cdn.printful.com/products/99/7835_1693822092.jpg",
+        "name": "Yupoong 6089M Wool Blend Snapback (Green Camo)"
+      },
+      "files": [
+        {
+          "id": 879745292,
+          "type": "default",
+          "hash": "652b590c1e7bb31d9b044905434de01e",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984681/onlyone_Farfalla%20Cosmica_1758984680.png",
+          "filename": "onlyone_Farfalla%20Cosmica_1758984680.png",
+          "mime_type": "image/png",
+          "size": 462137,
+          "width": 1031,
+          "height": 1375,
+          "dpi": null,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        },
+        {
+          "id": 879745294,
+          "type": "left",
+          "hash": "23ecde348d45679f61635da299fc5cbd",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984682/onlyone_universal_logo_1758984681.png",
+          "filename": "onlyone_universal_logo_1758984681.png",
+          "mime_type": "image/png",
+          "size": 18795,
+          "width": 335,
+          "height": 505,
+          "dpi": 96,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        }
+      ],
+      "options": [
+        {
+          "id": "embroidery_type",
+          "value": "flat"
+        },
+        {
+          "id": "thread_colors",
+          "value": [
+            "#FFFFFF",
+            "#96A1A8",
+            "#7BA35A",
+            "#A67843",
+            "#660000",
+            "#333366"
+          ]
+        },
+        {
+          "id": "text_thread_colors",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d",
+          "value": []
+        },
+        {
+          "id": "thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "thread_colors_left",
+          "value": [
+            "#96A1A8",
+            "#7BA35A",
+            "#6B5294"
+          ]
+        },
+        {
+          "id": "text_thread_colors_left",
+          "value": []
+        }
+      ],
+      "is_ignored": false,
+      "size": "One size",
+      "color": "Green Camo",
+      "availability_status": "active"
+    },
+    {
+      "id": 4987013715,
+      "external_id": "68d7f9f1e8cd81",
+      "sync_product_id": 394337682,
+      "name": "Farfalla Cosmica - Yupoong 6089M / Heather Grey / One size",
+      "synced": true,
+      "variant_id": 7836,
+      "main_category_id": 41,
+      "warehouse_product_id": null,
+      "warehouse_product_variant_id": null,
+      "retail_price": "12.49",
+      "sku": null,
+      "currency": "EUR",
+      "product": {
+        "variant_id": 7836,
+        "product_id": 99,
+        "image": "https://files.cdn.printful.com/products/99/7836_1586155081.jpg",
+        "name": "Yupoong 6089M Wool Blend Snapback (Heather Grey)"
+      },
+      "files": [
+        {
+          "id": 879745292,
+          "type": "default",
+          "hash": "652b590c1e7bb31d9b044905434de01e",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984681/onlyone_Farfalla%20Cosmica_1758984680.png",
+          "filename": "onlyone_Farfalla%20Cosmica_1758984680.png",
+          "mime_type": "image/png",
+          "size": 462137,
+          "width": 1031,
+          "height": 1375,
+          "dpi": null,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        },
+        {
+          "id": 879745294,
+          "type": "left",
+          "hash": "23ecde348d45679f61635da299fc5cbd",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984682/onlyone_universal_logo_1758984681.png",
+          "filename": "onlyone_universal_logo_1758984681.png",
+          "mime_type": "image/png",
+          "size": 18795,
+          "width": 335,
+          "height": 505,
+          "dpi": 96,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        }
+      ],
+      "options": [
+        {
+          "id": "embroidery_type",
+          "value": "flat"
+        },
+        {
+          "id": "thread_colors",
+          "value": [
+            "#FFFFFF",
+            "#96A1A8",
+            "#7BA35A",
+            "#A67843",
+            "#660000",
+            "#333366"
+          ]
+        },
+        {
+          "id": "text_thread_colors",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d",
+          "value": []
+        },
+        {
+          "id": "thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "thread_colors_left",
+          "value": [
+            "#96A1A8",
+            "#7BA35A",
+            "#6B5294"
+          ]
+        },
+        {
+          "id": "text_thread_colors_left",
+          "value": []
+        }
+      ],
+      "is_ignored": false,
+      "size": "One size",
+      "color": "Heather Grey",
+      "availability_status": "active"
+    },
+    {
+      "id": 4987013716,
+      "external_id": "68d7f9f2a672d2",
+      "sync_product_id": 394337682,
+      "name": "Farfalla Cosmica - Yupoong 6089M / Heather Grey/ Navy / One size",
+      "synced": true,
+      "variant_id": 7838,
+      "main_category_id": 41,
+      "warehouse_product_id": null,
+      "warehouse_product_variant_id": null,
+      "retail_price": "14.95",
+      "sku": null,
+      "currency": "EUR",
+      "product": {
+        "variant_id": 7838,
+        "product_id": 99,
+        "image": "https://files.cdn.printful.com/products/99/7838_1586154997.jpg",
+        "name": "Yupoong 6089M Wool Blend Snapback (Heather Grey/ Navy)"
+      },
+      "files": [
+        {
+          "id": 879745292,
+          "type": "default",
+          "hash": "652b590c1e7bb31d9b044905434de01e",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984681/onlyone_Farfalla%20Cosmica_1758984680.png",
+          "filename": "onlyone_Farfalla%20Cosmica_1758984680.png",
+          "mime_type": "image/png",
+          "size": 462137,
+          "width": 1031,
+          "height": 1375,
+          "dpi": null,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        },
+        {
+          "id": 879745294,
+          "type": "left",
+          "hash": "23ecde348d45679f61635da299fc5cbd",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984682/onlyone_universal_logo_1758984681.png",
+          "filename": "onlyone_universal_logo_1758984681.png",
+          "mime_type": "image/png",
+          "size": 18795,
+          "width": 335,
+          "height": 505,
+          "dpi": 96,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        }
+      ],
+      "options": [
+        {
+          "id": "embroidery_type",
+          "value": "flat"
+        },
+        {
+          "id": "thread_colors",
+          "value": [
+            "#FFFFFF",
+            "#96A1A8",
+            "#7BA35A",
+            "#A67843",
+            "#660000",
+            "#333366"
+          ]
+        },
+        {
+          "id": "text_thread_colors",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d",
+          "value": []
+        },
+        {
+          "id": "thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "thread_colors_left",
+          "value": [
+            "#96A1A8",
+            "#7BA35A",
+            "#6B5294"
+          ]
+        },
+        {
+          "id": "text_thread_colors_left",
+          "value": []
+        }
+      ],
+      "is_ignored": false,
+      "size": "One size",
+      "color": "Heather Grey/ Navy",
+      "availability_status": "active"
+    },
+    {
+      "id": 4987013747,
+      "external_id": "68d7f9f32d8ec7",
+      "sync_product_id": 394337682,
+      "name": "Farfalla Cosmica - Yupoong 6089M / Heather Grey/ Red / One size",
+      "synced": true,
+      "variant_id": 7840,
+      "main_category_id": 41,
+      "warehouse_product_id": null,
+      "warehouse_product_variant_id": null,
+      "retail_price": "14.95",
+      "sku": null,
+      "currency": "EUR",
+      "product": {
+        "variant_id": 7840,
+        "product_id": 99,
+        "image": "https://files.cdn.printful.com/products/99/7840_1586155061.jpg",
+        "name": "Yupoong 6089M Wool Blend Snapback (Heather Grey/ Red)"
+      },
+      "files": [
+        {
+          "id": 879745292,
+          "type": "default",
+          "hash": "652b590c1e7bb31d9b044905434de01e",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984681/onlyone_Farfalla%20Cosmica_1758984680.png",
+          "filename": "onlyone_Farfalla%20Cosmica_1758984680.png",
+          "mime_type": "image/png",
+          "size": 462137,
+          "width": 1031,
+          "height": 1375,
+          "dpi": null,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        },
+        {
+          "id": 879745294,
+          "type": "left",
+          "hash": "23ecde348d45679f61635da299fc5cbd",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984682/onlyone_universal_logo_1758984681.png",
+          "filename": "onlyone_universal_logo_1758984681.png",
+          "mime_type": "image/png",
+          "size": 18795,
+          "width": 335,
+          "height": 505,
+          "dpi": 96,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        }
+      ],
+      "options": [
+        {
+          "id": "embroidery_type",
+          "value": "flat"
+        },
+        {
+          "id": "thread_colors",
+          "value": [
+            "#FFFFFF",
+            "#96A1A8",
+            "#7BA35A",
+            "#A67843",
+            "#660000",
+            "#333366"
+          ]
+        },
+        {
+          "id": "text_thread_colors",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d",
+          "value": []
+        },
+        {
+          "id": "thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "thread_colors_left",
+          "value": [
+            "#96A1A8",
+            "#7BA35A",
+            "#6B5294"
+          ]
+        },
+        {
+          "id": "text_thread_colors_left",
+          "value": []
+        }
+      ],
+      "is_ignored": false,
+      "size": "One size",
+      "color": "Heather Grey/ Red",
+      "availability_status": "active"
+    },
+    {
+      "id": 4987013748,
+      "external_id": "68d7f9f3ae3739",
+      "sync_product_id": 394337682,
+      "name": "Farfalla Cosmica - Yupoong 6089M / Heather/Black / One size",
+      "synced": true,
+      "variant_id": 7837,
+      "main_category_id": 41,
+      "warehouse_product_id": null,
+      "warehouse_product_variant_id": null,
+      "retail_price": "12.49",
+      "sku": null,
+      "currency": "EUR",
+      "product": {
+        "variant_id": 7837,
+        "product_id": 99,
+        "image": "https://files.cdn.printful.com/products/99/7837_1586154972.jpg",
+        "name": "Yupoong 6089M Wool Blend Snapback (Heather/Black)"
+      },
+      "files": [
+        {
+          "id": 879745292,
+          "type": "default",
+          "hash": "652b590c1e7bb31d9b044905434de01e",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984681/onlyone_Farfalla%20Cosmica_1758984680.png",
+          "filename": "onlyone_Farfalla%20Cosmica_1758984680.png",
+          "mime_type": "image/png",
+          "size": 462137,
+          "width": 1031,
+          "height": 1375,
+          "dpi": null,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        },
+        {
+          "id": 879745294,
+          "type": "left",
+          "hash": "23ecde348d45679f61635da299fc5cbd",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984682/onlyone_universal_logo_1758984681.png",
+          "filename": "onlyone_universal_logo_1758984681.png",
+          "mime_type": "image/png",
+          "size": 18795,
+          "width": 335,
+          "height": 505,
+          "dpi": 96,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        }
+      ],
+      "options": [
+        {
+          "id": "embroidery_type",
+          "value": "flat"
+        },
+        {
+          "id": "thread_colors",
+          "value": [
+            "#FFFFFF",
+            "#96A1A8",
+            "#7BA35A",
+            "#A67843",
+            "#660000",
+            "#333366"
+          ]
+        },
+        {
+          "id": "text_thread_colors",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d",
+          "value": []
+        },
+        {
+          "id": "thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "thread_colors_left",
+          "value": [
+            "#96A1A8",
+            "#7BA35A",
+            "#6B5294"
+          ]
+        },
+        {
+          "id": "text_thread_colors_left",
+          "value": []
+        }
+      ],
+      "is_ignored": false,
+      "size": "One size",
+      "color": "Heather/Black",
+      "availability_status": "active"
+    },
+    {
+      "id": 4987013749,
+      "external_id": "68d7f9f4474841",
+      "sync_product_id": 394337682,
+      "name": "Farfalla Cosmica - Yupoong 6089M / Maroon / One size",
+      "synced": true,
+      "variant_id": 4799,
+      "main_category_id": 41,
+      "warehouse_product_id": null,
+      "warehouse_product_variant_id": null,
+      "retail_price": "12.49",
+      "sku": null,
+      "currency": "EUR",
+      "product": {
+        "variant_id": 4799,
+        "product_id": 99,
+        "image": "https://files.cdn.printful.com/products/99/4799_1586155104.jpg",
+        "name": "Yupoong 6089M Wool Blend Snapback (Maroon)"
+      },
+      "files": [
+        {
+          "id": 879745292,
+          "type": "default",
+          "hash": "652b590c1e7bb31d9b044905434de01e",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984681/onlyone_Farfalla%20Cosmica_1758984680.png",
+          "filename": "onlyone_Farfalla%20Cosmica_1758984680.png",
+          "mime_type": "image/png",
+          "size": 462137,
+          "width": 1031,
+          "height": 1375,
+          "dpi": null,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        },
+        {
+          "id": 879745294,
+          "type": "left",
+          "hash": "23ecde348d45679f61635da299fc5cbd",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984682/onlyone_universal_logo_1758984681.png",
+          "filename": "onlyone_universal_logo_1758984681.png",
+          "mime_type": "image/png",
+          "size": 18795,
+          "width": 335,
+          "height": 505,
+          "dpi": 96,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        }
+      ],
+      "options": [
+        {
+          "id": "embroidery_type",
+          "value": "flat"
+        },
+        {
+          "id": "thread_colors",
+          "value": [
+            "#FFFFFF",
+            "#96A1A8",
+            "#7BA35A",
+            "#A67843",
+            "#660000",
+            "#333366"
+          ]
+        },
+        {
+          "id": "text_thread_colors",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d",
+          "value": []
+        },
+        {
+          "id": "thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "thread_colors_left",
+          "value": [
+            "#96A1A8",
+            "#7BA35A",
+            "#6B5294"
+          ]
+        },
+        {
+          "id": "text_thread_colors_left",
+          "value": []
+        }
+      ],
+      "is_ignored": false,
+      "size": "One size",
+      "color": "Maroon",
+      "availability_status": "active"
+    },
+    {
+      "id": 4987013751,
+      "external_id": "68d7f9f4c7b295",
+      "sync_product_id": 394337682,
+      "name": "Farfalla Cosmica - Yupoong 6089M / Natural/ Black / One size",
+      "synced": true,
+      "variant_id": 4801,
+      "main_category_id": 41,
+      "warehouse_product_id": null,
+      "warehouse_product_variant_id": null,
+      "retail_price": "14.95",
+      "sku": null,
+      "currency": "EUR",
+      "product": {
+        "variant_id": 4801,
+        "product_id": 99,
+        "image": "https://files.cdn.printful.com/products/99/4801_1586155126.jpg",
+        "name": "Yupoong 6089M Wool Blend Snapback (Natural/ Black)"
+      },
+      "files": [
+        {
+          "id": 879745292,
+          "type": "default",
+          "hash": "652b590c1e7bb31d9b044905434de01e",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984681/onlyone_Farfalla%20Cosmica_1758984680.png",
+          "filename": "onlyone_Farfalla%20Cosmica_1758984680.png",
+          "mime_type": "image/png",
+          "size": 462137,
+          "width": 1031,
+          "height": 1375,
+          "dpi": null,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        },
+        {
+          "id": 879745294,
+          "type": "left",
+          "hash": "23ecde348d45679f61635da299fc5cbd",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984682/onlyone_universal_logo_1758984681.png",
+          "filename": "onlyone_universal_logo_1758984681.png",
+          "mime_type": "image/png",
+          "size": 18795,
+          "width": 335,
+          "height": 505,
+          "dpi": 96,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        }
+      ],
+      "options": [
+        {
+          "id": "embroidery_type",
+          "value": "flat"
+        },
+        {
+          "id": "thread_colors",
+          "value": [
+            "#FFFFFF",
+            "#96A1A8",
+            "#7BA35A",
+            "#A67843",
+            "#660000",
+            "#333366"
+          ]
+        },
+        {
+          "id": "text_thread_colors",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d",
+          "value": []
+        },
+        {
+          "id": "thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "thread_colors_left",
+          "value": [
+            "#96A1A8",
+            "#7BA35A",
+            "#6B5294"
+          ]
+        },
+        {
+          "id": "text_thread_colors_left",
+          "value": []
+        }
+      ],
+      "is_ignored": false,
+      "size": "One size",
+      "color": "Natural/ Black",
+      "availability_status": "active"
+    },
+    {
+      "id": 4987013753,
+      "external_id": "68d7f9f54e7407",
+      "sync_product_id": 394337682,
+      "name": "Farfalla Cosmica - Yupoong 6089M / Navy / One size",
+      "synced": true,
+      "variant_id": 4802,
+      "main_category_id": 41,
+      "warehouse_product_id": null,
+      "warehouse_product_variant_id": null,
+      "retail_price": "12.49",
+      "sku": null,
+      "currency": "EUR",
+      "product": {
+        "variant_id": 4802,
+        "product_id": 99,
+        "image": "https://files.cdn.printful.com/products/99/4802_1586155149.jpg",
+        "name": "Yupoong 6089M Wool Blend Snapback (Navy)"
+      },
+      "files": [
+        {
+          "id": 879745292,
+          "type": "default",
+          "hash": "652b590c1e7bb31d9b044905434de01e",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984681/onlyone_Farfalla%20Cosmica_1758984680.png",
+          "filename": "onlyone_Farfalla%20Cosmica_1758984680.png",
+          "mime_type": "image/png",
+          "size": 462137,
+          "width": 1031,
+          "height": 1375,
+          "dpi": null,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        },
+        {
+          "id": 879745294,
+          "type": "left",
+          "hash": "23ecde348d45679f61635da299fc5cbd",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984682/onlyone_universal_logo_1758984681.png",
+          "filename": "onlyone_universal_logo_1758984681.png",
+          "mime_type": "image/png",
+          "size": 18795,
+          "width": 335,
+          "height": 505,
+          "dpi": 96,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        }
+      ],
+      "options": [
+        {
+          "id": "embroidery_type",
+          "value": "flat"
+        },
+        {
+          "id": "thread_colors",
+          "value": [
+            "#FFFFFF",
+            "#96A1A8",
+            "#7BA35A",
+            "#A67843",
+            "#660000",
+            "#333366"
+          ]
+        },
+        {
+          "id": "text_thread_colors",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d",
+          "value": []
+        },
+        {
+          "id": "thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "thread_colors_left",
+          "value": [
+            "#96A1A8",
+            "#7BA35A",
+            "#6B5294"
+          ]
+        },
+        {
+          "id": "text_thread_colors_left",
+          "value": []
+        }
+      ],
+      "is_ignored": false,
+      "size": "One size",
+      "color": "Navy",
+      "availability_status": "active"
+    },
+    {
+      "id": 4987013771,
+      "external_id": "68d7f9f5cfa6f7",
+      "sync_product_id": 394337682,
+      "name": "Farfalla Cosmica - Yupoong 6089M / Navy/ Red / One size",
+      "synced": true,
+      "variant_id": 7842,
+      "main_category_id": 41,
+      "warehouse_product_id": null,
+      "warehouse_product_variant_id": null,
+      "retail_price": "14.95",
+      "sku": null,
+      "currency": "EUR",
+      "product": {
+        "variant_id": 7842,
+        "product_id": 99,
+        "image": "https://files.cdn.printful.com/products/99/7842_1586154916.jpg",
+        "name": "Yupoong 6089M Wool Blend Snapback (Navy/ Red)"
+      },
+      "files": [
+        {
+          "id": 879745292,
+          "type": "default",
+          "hash": "652b590c1e7bb31d9b044905434de01e",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984681/onlyone_Farfalla%20Cosmica_1758984680.png",
+          "filename": "onlyone_Farfalla%20Cosmica_1758984680.png",
+          "mime_type": "image/png",
+          "size": 462137,
+          "width": 1031,
+          "height": 1375,
+          "dpi": null,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        },
+        {
+          "id": 879745294,
+          "type": "left",
+          "hash": "23ecde348d45679f61635da299fc5cbd",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984682/onlyone_universal_logo_1758984681.png",
+          "filename": "onlyone_universal_logo_1758984681.png",
+          "mime_type": "image/png",
+          "size": 18795,
+          "width": 335,
+          "height": 505,
+          "dpi": 96,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        }
+      ],
+      "options": [
+        {
+          "id": "embroidery_type",
+          "value": "flat"
+        },
+        {
+          "id": "thread_colors",
+          "value": [
+            "#FFFFFF",
+            "#96A1A8",
+            "#7BA35A",
+            "#A67843",
+            "#660000",
+            "#333366"
+          ]
+        },
+        {
+          "id": "text_thread_colors",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d",
+          "value": []
+        },
+        {
+          "id": "thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "thread_colors_left",
+          "value": [
+            "#96A1A8",
+            "#7BA35A",
+            "#6B5294"
+          ]
+        },
+        {
+          "id": "text_thread_colors_left",
+          "value": []
+        }
+      ],
+      "is_ignored": false,
+      "size": "One size",
+      "color": "Navy/ Red",
+      "availability_status": "active"
+    },
+    {
+      "id": 4987013803,
+      "external_id": "68d7f9f65bc349",
+      "sync_product_id": 394337682,
+      "name": "Farfalla Cosmica - Yupoong 6089M / Red / One size",
+      "synced": true,
+      "variant_id": 4806,
+      "main_category_id": 41,
+      "warehouse_product_id": null,
+      "warehouse_product_variant_id": null,
+      "retail_price": "12.49",
+      "sku": null,
+      "currency": "EUR",
+      "product": {
+        "variant_id": 4806,
+        "product_id": 99,
+        "image": "https://files.cdn.printful.com/products/99/4806_1586155186.jpg",
+        "name": "Yupoong 6089M Wool Blend Snapback (Red)"
+      },
+      "files": [
+        {
+          "id": 879745292,
+          "type": "default",
+          "hash": "652b590c1e7bb31d9b044905434de01e",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984681/onlyone_Farfalla%20Cosmica_1758984680.png",
+          "filename": "onlyone_Farfalla%20Cosmica_1758984680.png",
+          "mime_type": "image/png",
+          "size": 462137,
+          "width": 1031,
+          "height": 1375,
+          "dpi": null,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        },
+        {
+          "id": 879745294,
+          "type": "left",
+          "hash": "23ecde348d45679f61635da299fc5cbd",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984682/onlyone_universal_logo_1758984681.png",
+          "filename": "onlyone_universal_logo_1758984681.png",
+          "mime_type": "image/png",
+          "size": 18795,
+          "width": 335,
+          "height": 505,
+          "dpi": 96,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        }
+      ],
+      "options": [
+        {
+          "id": "embroidery_type",
+          "value": "flat"
+        },
+        {
+          "id": "thread_colors",
+          "value": [
+            "#FFFFFF",
+            "#96A1A8",
+            "#7BA35A",
+            "#A67843",
+            "#660000",
+            "#333366"
+          ]
+        },
+        {
+          "id": "text_thread_colors",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d",
+          "value": []
+        },
+        {
+          "id": "thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "thread_colors_left",
+          "value": [
+            "#96A1A8",
+            "#7BA35A",
+            "#6B5294"
+          ]
+        },
+        {
+          "id": "text_thread_colors_left",
+          "value": []
+        }
+      ],
+      "is_ignored": false,
+      "size": "One size",
+      "color": "Red",
+      "availability_status": "active"
+    },
+    {
+      "id": 4987013807,
+      "external_id": "68d7f9f6e42514",
+      "sync_product_id": 394337682,
+      "name": "Farfalla Cosmica - Yupoong 6089M / Royal Blue / One size",
+      "synced": true,
+      "variant_id": 4807,
+      "main_category_id": 41,
+      "warehouse_product_id": null,
+      "warehouse_product_variant_id": null,
+      "retail_price": "12.49",
+      "sku": null,
+      "currency": "EUR",
+      "product": {
+        "variant_id": 4807,
+        "product_id": 99,
+        "image": "https://files.cdn.printful.com/products/99/4807_1586155230.jpg",
+        "name": "Yupoong 6089M Wool Blend Snapback (Royal Blue)"
+      },
+      "files": [
+        {
+          "id": 879745292,
+          "type": "default",
+          "hash": "652b590c1e7bb31d9b044905434de01e",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984681/onlyone_Farfalla%20Cosmica_1758984680.png",
+          "filename": "onlyone_Farfalla%20Cosmica_1758984680.png",
+          "mime_type": "image/png",
+          "size": 462137,
+          "width": 1031,
+          "height": 1375,
+          "dpi": null,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        },
+        {
+          "id": 879745294,
+          "type": "left",
+          "hash": "23ecde348d45679f61635da299fc5cbd",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984682/onlyone_universal_logo_1758984681.png",
+          "filename": "onlyone_universal_logo_1758984681.png",
+          "mime_type": "image/png",
+          "size": 18795,
+          "width": 335,
+          "height": 505,
+          "dpi": 96,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        }
+      ],
+      "options": [
+        {
+          "id": "embroidery_type",
+          "value": "flat"
+        },
+        {
+          "id": "thread_colors",
+          "value": [
+            "#FFFFFF",
+            "#96A1A8",
+            "#7BA35A",
+            "#A67843",
+            "#660000",
+            "#333366"
+          ]
+        },
+        {
+          "id": "text_thread_colors",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d",
+          "value": []
+        },
+        {
+          "id": "thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "thread_colors_left",
+          "value": [
+            "#96A1A8",
+            "#7BA35A",
+            "#6B5294"
+          ]
+        },
+        {
+          "id": "text_thread_colors_left",
+          "value": []
+        }
+      ],
+      "is_ignored": false,
+      "size": "One size",
+      "color": "Royal Blue",
+      "availability_status": "active"
+    },
+    {
+      "id": 4987013814,
+      "external_id": "68d7f9fbca7344",
+      "sync_product_id": 394337682,
+      "name": "Farfalla Cosmica - Yupoong 6089M / Silver / One size",
+      "synced": true,
+      "variant_id": 4808,
+      "main_category_id": 41,
+      "warehouse_product_id": null,
+      "warehouse_product_variant_id": null,
+      "retail_price": "12.49",
+      "sku": null,
+      "currency": "EUR",
+      "product": {
+        "variant_id": 4808,
+        "product_id": 99,
+        "image": "https://files.cdn.printful.com/products/99/4808_1586155250.jpg",
+        "name": "Yupoong 6089M Wool Blend Snapback (Silver)"
+      },
+      "files": [
+        {
+          "id": 879745292,
+          "type": "default",
+          "hash": "652b590c1e7bb31d9b044905434de01e",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984681/onlyone_Farfalla%20Cosmica_1758984680.png",
+          "filename": "onlyone_Farfalla%20Cosmica_1758984680.png",
+          "mime_type": "image/png",
+          "size": 462137,
+          "width": 1031,
+          "height": 1375,
+          "dpi": null,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        },
+        {
+          "id": 879745294,
+          "type": "left",
+          "hash": "23ecde348d45679f61635da299fc5cbd",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984682/onlyone_universal_logo_1758984681.png",
+          "filename": "onlyone_universal_logo_1758984681.png",
+          "mime_type": "image/png",
+          "size": 18795,
+          "width": 335,
+          "height": 505,
+          "dpi": 96,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        }
+      ],
+      "options": [
+        {
+          "id": "embroidery_type",
+          "value": "flat"
+        },
+        {
+          "id": "thread_colors",
+          "value": [
+            "#FFFFFF",
+            "#96A1A8",
+            "#7BA35A",
+            "#A67843",
+            "#660000",
+            "#333366"
+          ]
+        },
+        {
+          "id": "text_thread_colors",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d",
+          "value": []
+        },
+        {
+          "id": "thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "thread_colors_left",
+          "value": [
+            "#96A1A8",
+            "#7BA35A",
+            "#6B5294"
+          ]
+        },
+        {
+          "id": "text_thread_colors_left",
+          "value": []
+        }
+      ],
+      "is_ignored": false,
+      "size": "One size",
+      "color": "Silver",
+      "availability_status": "active"
+    },
+    {
+      "id": 4987013815,
+      "external_id": "68d7f9fc3b3607",
+      "sync_product_id": 394337682,
+      "name": "Farfalla Cosmica - Yupoong 6089M / Spruce / One size",
+      "synced": true,
+      "variant_id": 4809,
+      "main_category_id": 41,
+      "warehouse_product_id": null,
+      "warehouse_product_variant_id": null,
+      "retail_price": "12.49",
+      "sku": null,
+      "currency": "EUR",
+      "product": {
+        "variant_id": 4809,
+        "product_id": 99,
+        "image": "https://files.cdn.printful.com/products/99/4809_1586155268.jpg",
+        "name": "Yupoong 6089M Wool Blend Snapback (Spruce)"
+      },
+      "files": [
+        {
+          "id": 879745292,
+          "type": "default",
+          "hash": "652b590c1e7bb31d9b044905434de01e",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984681/onlyone_Farfalla%20Cosmica_1758984680.png",
+          "filename": "onlyone_Farfalla%20Cosmica_1758984680.png",
+          "mime_type": "image/png",
+          "size": 462137,
+          "width": 1031,
+          "height": 1375,
+          "dpi": null,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        },
+        {
+          "id": 879745294,
+          "type": "left",
+          "hash": "23ecde348d45679f61635da299fc5cbd",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984682/onlyone_universal_logo_1758984681.png",
+          "filename": "onlyone_universal_logo_1758984681.png",
+          "mime_type": "image/png",
+          "size": 18795,
+          "width": 335,
+          "height": 505,
+          "dpi": 96,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        }
+      ],
+      "options": [
+        {
+          "id": "embroidery_type",
+          "value": "flat"
+        },
+        {
+          "id": "thread_colors",
+          "value": [
+            "#FFFFFF",
+            "#96A1A8",
+            "#7BA35A",
+            "#A67843",
+            "#660000",
+            "#333366"
+          ]
+        },
+        {
+          "id": "text_thread_colors",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d",
+          "value": []
+        },
+        {
+          "id": "thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "thread_colors_left",
+          "value": [
+            "#96A1A8",
+            "#7BA35A",
+            "#6B5294"
+          ]
+        },
+        {
+          "id": "text_thread_colors_left",
+          "value": []
+        }
+      ],
+      "is_ignored": false,
+      "size": "One size",
+      "color": "Spruce",
+      "availability_status": "active"
+    },
+    {
+      "id": 4987013822,
+      "external_id": "68d7f9fc8f3075",
+      "sync_product_id": 394337682,
+      "name": "Farfalla Cosmica - Yupoong 6089M / White / One size",
+      "synced": true,
+      "variant_id": 22453,
+      "main_category_id": 41,
+      "warehouse_product_id": null,
+      "warehouse_product_variant_id": null,
+      "retail_price": "12.49",
+      "sku": null,
+      "currency": "EUR",
+      "product": {
+        "variant_id": 22453,
+        "product_id": 99,
+        "image": "https://files.cdn.printful.com/products/99/22453_1741939296.jpg",
+        "name": "Yupoong 6089M Wool Blend Snapback (White)"
+      },
+      "files": [
+        {
+          "id": 879745292,
+          "type": "default",
+          "hash": "652b590c1e7bb31d9b044905434de01e",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984681/onlyone_Farfalla%20Cosmica_1758984680.png",
+          "filename": "onlyone_Farfalla%20Cosmica_1758984680.png",
+          "mime_type": "image/png",
+          "size": 462137,
+          "width": 1031,
+          "height": 1375,
+          "dpi": null,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/652/652b590c1e7bb31d9b044905434de01e_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        },
+        {
+          "id": 879745294,
+          "type": "left",
+          "hash": "23ecde348d45679f61635da299fc5cbd",
+          "url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758984682/onlyone_universal_logo_1758984681.png",
+          "filename": "onlyone_universal_logo_1758984681.png",
+          "mime_type": "image/png",
+          "size": 18795,
+          "width": 335,
+          "height": 505,
+          "dpi": 96,
+          "status": "ok",
+          "created": 1758984685,
+          "thumbnail_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_thumb.png",
+          "preview_url": "https://files.cdn.printful.com/files/23e/23ecde348d45679f61635da299fc5cbd_preview.png",
+          "visible": true,
+          "is_temporary": false,
+          "message": "",
+          "options": [
+            {
+              "id": "auto_thread_color",
+              "value": true
+            }
+          ],
+          "stitch_count_tier": null
+        }
+      ],
+      "options": [
+        {
+          "id": "embroidery_type",
+          "value": "flat"
+        },
+        {
+          "id": "thread_colors",
+          "value": [
+            "#FFFFFF",
+            "#96A1A8",
+            "#7BA35A",
+            "#A67843",
+            "#660000",
+            "#333366"
+          ]
+        },
+        {
+          "id": "text_thread_colors",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d",
+          "value": []
+        },
+        {
+          "id": "thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_3d_front_large",
+          "value": []
+        },
+        {
+          "id": "thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_back",
+          "value": []
+        },
+        {
+          "id": "thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "text_thread_colors_right",
+          "value": []
+        },
+        {
+          "id": "thread_colors_left",
+          "value": [
+            "#96A1A8",
+            "#7BA35A",
+            "#6B5294"
+          ]
+        },
+        {
+          "id": "text_thread_colors_left",
+          "value": []
+        }
+      ],
+      "is_ignored": false,
+      "size": "One size",
+      "color": "White",
+      "availability_status": "active"
+    }
+  ],
+  "product_type": "yupoong_6089m",
+  "total_variants_created": 21,
+  "total_variants_requested": 21
+}

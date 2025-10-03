@@ -1,0 +1,61 @@
+{
+  "success": true,
+  "product_id": null,
+  "sync_product": {},
+  "sync_variants": [],
+  "variant_created": {
+    "variant_id": 4792,
+    "size": "One size",
+    "color": "Black",
+    "price": 12.49,
+    "name": "Yupoong 6089M Wool Blend Snapback (Black)",
+    "color_code": "#2a2a2a",
+    "currency": null,
+    "image": "https://files.cdn.printful.com/products/99/4792_1586154802.jpg",
+    "availability_status": [
+      {
+        "region": "US",
+        "status": "in_stock"
+      },
+      {
+        "region": "EU",
+        "status": "in_stock"
+      },
+      {
+        "region": "EU_LV",
+        "status": "in_stock"
+      },
+      {
+        "region": "EU_ES",
+        "status": "in_stock"
+      },
+      {
+        "region": "CA",
+        "status": "in_stock"
+      },
+      {
+        "region": "UK",
+        "status": "in_stock"
+      },
+      {
+        "region": "JP",
+        "status": "in_stock"
+      }
+    ],
+    "availability_regions": {
+      "US": "United States",
+      "EU": "Europe",
+      "EU_LV": "Latvia",
+      "EU_ES": "Spain",
+      "CA": "Canada",
+      "UK": "United Kingdom",
+      "JP": "Japan"
+    },
+    "product_id": 99
+  },
+  "urls": {
+    "design_url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758983046/onlyone_Farfalla%20Cosmica_1758983044.png",
+    "logo_url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758983047/onlyone_universal_logo_1758983046.png",
+    "upscaled_url": "https://res.cloudinary.com/dlgmv7ady/image/upload/v1758983049/transparent_Farfalla%20Cosmica_1758983047.png"
+  }
+}
