@@ -1,0 +1,604 @@
+{
+  "success": true,
+  "product_id": 395189951,
+  "product_name": "Farfalla Cosmica - AS Colour 1120 - Beanie",
+  "product_type": "as_colour_1120",
+  "variants_count": 8,
+  "result": {
+    "sync_product": {
+      "id": 395189951,
+      "external_id": "68e1414acf02a7",
+      "name": "Farfalla Cosmica - AS Colour 1120 - Beanie",
+      "variants": 8,
+      "synced": 8,
+      "thumbnail_url": "https://res.cloudinary.com/djbjepgzm/image/upload/v1759591995/onlyone_Farfalla%20Cosmica_beanie_scaled_1759591994.png",
+      "is_ignored": false
+    },
+    "sync_variants": [
+      {
+        "id": 4998990464,
+        "external_id": "68e1414ad09b17",
+        "sync_product_id": 395189951,
+        "name": "Farfalla Cosmica - AS Colour 1120 - Beanie / Athletic Heather",
+        "synced": true,
+        "variant_id": 20543,
+        "main_category_id": 45,
+        "warehouse_product_id": null,
+        "warehouse_product_variant_id": null,
+        "retail_price": "14.95",
+        "sku": null,
+        "currency": "EUR",
+        "product": {
+          "variant_id": 20543,
+          "product_id": 809,
+          "image": "https://files.cdn.printful.com/products/809/20543_1726493260.jpg",
+          "name": "Fisherman Beanie | AS Colour 1120 (Athletic Heather)"
+        },
+        "files": [
+          {
+            "id": 882515425,
+            "type": "default",
+            "hash": "be19ddf1943ed8a68951caf8dd32cb3a",
+            "url": "https://res.cloudinary.com/djbjepgzm/image/upload/v1759591995/onlyone_Farfalla%20Cosmica_beanie_scaled_1759591994.png",
+            "filename": "onlyone_Farfalla%20Cosmica_beanie_scaled_1759591994.png",
+            "mime_type": "image/png",
+            "size": 1824762,
+            "width": 1536,
+            "height": 1536,
+            "dpi": null,
+            "status": "ok",
+            "created": 1759591997,
+            "thumbnail_url": "https://files.cdn.printful.com/files/be1/be19ddf1943ed8a68951caf8dd32cb3a_thumb.png",
+            "preview_url": "https://files.cdn.printful.com/files/be1/be19ddf1943ed8a68951caf8dd32cb3a_preview.png",
+            "visible": true,
+            "is_temporary": false,
+            "message": "",
+            "options": [
+              {
+                "id": "auto_thread_color",
+                "value": true
+              }
+            ],
+            "stitch_count_tier": null
+          }
+        ],
+        "options": [
+          {
+            "id": "embroidery_type",
+            "value": "flat"
+          },
+          {
+            "id": "thread_colors",
+            "value": [
+              "#96A1A8",
+              "#000000"
+            ]
+          },
+          {
+            "id": "text_thread_colors",
+            "value": []
+          },
+          {
+            "id": "thread_colors_3d",
+            "value": []
+          }
+        ],
+        "is_ignored": false,
+        "size": null,
+        "color": "Athletic Heather",
+        "availability_status": "active"
+      },
+      {
+        "id": 4998990465,
+        "external_id": "68e1414bbed156",
+        "sync_product_id": 395189951,
+        "name": "Farfalla Cosmica - AS Colour 1120 - Beanie / Black",
+        "synced": true,
+        "variant_id": 20487,
+        "main_category_id": 45,
+        "warehouse_product_id": null,
+        "warehouse_product_variant_id": null,
+        "retail_price": "14.95",
+        "sku": null,
+        "currency": "EUR",
+        "product": {
+          "variant_id": 20487,
+          "product_id": 809,
+          "image": "https://files.cdn.printful.com/products/809/20487_1726493260.jpg",
+          "name": "Fisherman Beanie | AS Colour 1120 (Black)"
+        },
+        "files": [
+          {
+            "id": 882515425,
+            "type": "default",
+            "hash": "be19ddf1943ed8a68951caf8dd32cb3a",
+            "url": "https://res.cloudinary.com/djbjepgzm/image/upload/v1759591995/onlyone_Farfalla%20Cosmica_beanie_scaled_1759591994.png",
+            "filename": "onlyone_Farfalla%20Cosmica_beanie_scaled_1759591994.png",
+            "mime_type": "image/png",
+            "size": 1824762,
+            "width": 1536,
+            "height": 1536,
+            "dpi": null,
+            "status": "ok",
+            "created": 1759591997,
+            "thumbnail_url": "https://files.cdn.printful.com/files/be1/be19ddf1943ed8a68951caf8dd32cb3a_thumb.png",
+            "preview_url": "https://files.cdn.printful.com/files/be1/be19ddf1943ed8a68951caf8dd32cb3a_preview.png",
+            "visible": true,
+            "is_temporary": false,
+            "message": "",
+            "options": [
+              {
+                "id": "auto_thread_color",
+                "value": true
+              }
+            ],
+            "stitch_count_tier": null
+          }
+        ],
+        "options": [
+          {
+            "id": "embroidery_type",
+            "value": "flat"
+          },
+          {
+            "id": "thread_colors",
+            "value": [
+              "#96A1A8",
+              "#000000"
+            ]
+          },
+          {
+            "id": "text_thread_colors",
+            "value": []
+          },
+          {
+            "id": "thread_colors_3d",
+            "value": []
+          }
+        ],
+        "is_ignored": false,
+        "size": null,
+        "color": "Black",
+        "availability_status": "active"
+      },
+      {
+        "id": 4998990480,
+        "external_id": "68e1414c95bd14",
+        "sync_product_id": 395189951,
+        "name": "Farfalla Cosmica - AS Colour 1120 - Beanie / Cypress",
+        "synced": true,
+        "variant_id": 20491,
+        "main_category_id": 45,
+        "warehouse_product_id": null,
+        "warehouse_product_variant_id": null,
+        "retail_price": "14.95",
+        "sku": null,
+        "currency": "EUR",
+        "product": {
+          "variant_id": 20491,
+          "product_id": 809,
+          "image": "https://files.cdn.printful.com/products/809/20491_1726493261.jpg",
+          "name": "Fisherman Beanie | AS Colour 1120 (Cypress)"
+        },
+        "files": [
+          {
+            "id": 882515425,
+            "type": "default",
+            "hash": "be19ddf1943ed8a68951caf8dd32cb3a",
+            "url": "https://res.cloudinary.com/djbjepgzm/image/upload/v1759591995/onlyone_Farfalla%20Cosmica_beanie_scaled_1759591994.png",
+            "filename": "onlyone_Farfalla%20Cosmica_beanie_scaled_1759591994.png",
+            "mime_type": "image/png",
+            "size": 1824762,
+            "width": 1536,
+            "height": 1536,
+            "dpi": null,
+            "status": "ok",
+            "created": 1759591997,
+            "thumbnail_url": "https://files.cdn.printful.com/files/be1/be19ddf1943ed8a68951caf8dd32cb3a_thumb.png",
+            "preview_url": "https://files.cdn.printful.com/files/be1/be19ddf1943ed8a68951caf8dd32cb3a_preview.png",
+            "visible": true,
+            "is_temporary": false,
+            "message": "",
+            "options": [
+              {
+                "id": "auto_thread_color",
+                "value": true
+              }
+            ],
+            "stitch_count_tier": null
+          }
+        ],
+        "options": [
+          {
+            "id": "embroidery_type",
+            "value": "flat"
+          },
+          {
+            "id": "thread_colors",
+            "value": [
+              "#96A1A8",
+              "#000000"
+            ]
+          },
+          {
+            "id": "text_thread_colors",
+            "value": []
+          },
+          {
+            "id": "thread_colors_3d",
+            "value": []
+          }
+        ],
+        "is_ignored": false,
+        "size": null,
+        "color": "Cypress",
+        "availability_status": "active"
+      },
+      {
+        "id": 4998990504,
+        "external_id": "68e1414d678cb6",
+        "sync_product_id": 395189951,
+        "name": "Farfalla Cosmica - AS Colour 1120 - Beanie / Ecru",
+        "synced": true,
+        "variant_id": 20490,
+        "main_category_id": 45,
+        "warehouse_product_id": null,
+        "warehouse_product_variant_id": null,
+        "retail_price": "14.95",
+        "sku": null,
+        "currency": "EUR",
+        "product": {
+          "variant_id": 20490,
+          "product_id": 809,
+          "image": "https://files.cdn.printful.com/products/809/20490_1726493270.jpg",
+          "name": "Fisherman Beanie | AS Colour 1120 (Ecru)"
+        },
+        "files": [
+          {
+            "id": 882515425,
+            "type": "default",
+            "hash": "be19ddf1943ed8a68951caf8dd32cb3a",
+            "url": "https://res.cloudinary.com/djbjepgzm/image/upload/v1759591995/onlyone_Farfalla%20Cosmica_beanie_scaled_1759591994.png",
+            "filename": "onlyone_Farfalla%20Cosmica_beanie_scaled_1759591994.png",
+            "mime_type": "image/png",
+            "size": 1824762,
+            "width": 1536,
+            "height": 1536,
+            "dpi": null,
+            "status": "ok",
+            "created": 1759591997,
+            "thumbnail_url": "https://files.cdn.printful.com/files/be1/be19ddf1943ed8a68951caf8dd32cb3a_thumb.png",
+            "preview_url": "https://files.cdn.printful.com/files/be1/be19ddf1943ed8a68951caf8dd32cb3a_preview.png",
+            "visible": true,
+            "is_temporary": false,
+            "message": "",
+            "options": [
+              {
+                "id": "auto_thread_color",
+                "value": true
+              }
+            ],
+            "stitch_count_tier": null
+          }
+        ],
+        "options": [
+          {
+            "id": "embroidery_type",
+            "value": "flat"
+          },
+          {
+            "id": "thread_colors",
+            "value": [
+              "#96A1A8",
+              "#000000"
+            ]
+          },
+          {
+            "id": "text_thread_colors",
+            "value": []
+          },
+          {
+            "id": "thread_colors_3d",
+            "value": []
+          }
+        ],
+        "is_ignored": false,
+        "size": null,
+        "color": "Ecru",
+        "availability_status": "active"
+      },
+      {
+        "id": 4998990514,
+        "external_id": "68e1414e3c5fd8",
+        "sync_product_id": 395189951,
+        "name": "Farfalla Cosmica - AS Colour 1120 - Beanie / Gold",
+        "synced": true,
+        "variant_id": 20493,
+        "main_category_id": 45,
+        "warehouse_product_id": null,
+        "warehouse_product_variant_id": null,
+        "retail_price": "14.95",
+        "sku": null,
+        "currency": "EUR",
+        "product": {
+          "variant_id": 20493,
+          "product_id": 809,
+          "image": "https://files.cdn.printful.com/products/809/20493_1726493270.jpg",
+          "name": "Fisherman Beanie | AS Colour 1120 (Gold)"
+        },
+        "files": [
+          {
+            "id": 882515425,
+            "type": "default",
+            "hash": "be19ddf1943ed8a68951caf8dd32cb3a",
+            "url": "https://res.cloudinary.com/djbjepgzm/image/upload/v1759591995/onlyone_Farfalla%20Cosmica_beanie_scaled_1759591994.png",
+            "filename": "onlyone_Farfalla%20Cosmica_beanie_scaled_1759591994.png",
+            "mime_type": "image/png",
+            "size": 1824762,
+            "width": 1536,
+            "height": 1536,
+            "dpi": null,
+            "status": "ok",
+            "created": 1759591997,
+            "thumbnail_url": "https://files.cdn.printful.com/files/be1/be19ddf1943ed8a68951caf8dd32cb3a_thumb.png",
+            "preview_url": "https://files.cdn.printful.com/files/be1/be19ddf1943ed8a68951caf8dd32cb3a_preview.png",
+            "visible": true,
+            "is_temporary": false,
+            "message": "",
+            "options": [
+              {
+                "id": "auto_thread_color",
+                "value": true
+              }
+            ],
+            "stitch_count_tier": null
+          }
+        ],
+        "options": [
+          {
+            "id": "embroidery_type",
+            "value": "flat"
+          },
+          {
+            "id": "thread_colors",
+            "value": [
+              "#96A1A8",
+              "#000000"
+            ]
+          },
+          {
+            "id": "text_thread_colors",
+            "value": []
+          },
+          {
+            "id": "thread_colors_3d",
+            "value": []
+          }
+        ],
+        "is_ignored": false,
+        "size": null,
+        "color": "Gold",
+        "availability_status": "active"
+      },
+      {
+        "id": 4998990523,
+        "external_id": "68e1414f1474e9",
+        "sync_product_id": 395189951,
+        "name": "Farfalla Cosmica - AS Colour 1120 - Beanie / Petrol Blue",
+        "synced": true,
+        "variant_id": 20488,
+        "main_category_id": 45,
+        "warehouse_product_id": null,
+        "warehouse_product_variant_id": null,
+        "retail_price": "14.95",
+        "sku": null,
+        "currency": "EUR",
+        "product": {
+          "variant_id": 20488,
+          "product_id": 809,
+          "image": "https://files.cdn.printful.com/products/809/20488_1726493281.jpg",
+          "name": "Fisherman Beanie | AS Colour 1120 (Petrol Blue)"
+        },
+        "files": [
+          {
+            "id": 882515425,
+            "type": "default",
+            "hash": "be19ddf1943ed8a68951caf8dd32cb3a",
+            "url": "https://res.cloudinary.com/djbjepgzm/image/upload/v1759591995/onlyone_Farfalla%20Cosmica_beanie_scaled_1759591994.png",
+            "filename": "onlyone_Farfalla%20Cosmica_beanie_scaled_1759591994.png",
+            "mime_type": "image/png",
+            "size": 1824762,
+            "width": 1536,
+            "height": 1536,
+            "dpi": null,
+            "status": "ok",
+            "created": 1759591997,
+            "thumbnail_url": "https://files.cdn.printful.com/files/be1/be19ddf1943ed8a68951caf8dd32cb3a_thumb.png",
+            "preview_url": "https://files.cdn.printful.com/files/be1/be19ddf1943ed8a68951caf8dd32cb3a_preview.png",
+            "visible": true,
+            "is_temporary": false,
+            "message": "",
+            "options": [
+              {
+                "id": "auto_thread_color",
+                "value": true
+              }
+            ],
+            "stitch_count_tier": null
+          }
+        ],
+        "options": [
+          {
+            "id": "embroidery_type",
+            "value": "flat"
+          },
+          {
+            "id": "thread_colors",
+            "value": [
+              "#96A1A8",
+              "#000000"
+            ]
+          },
+          {
+            "id": "text_thread_colors",
+            "value": []
+          },
+          {
+            "id": "thread_colors_3d",
+            "value": []
+          }
+        ],
+        "is_ignored": false,
+        "size": null,
+        "color": "Petrol Blue",
+        "availability_status": "active"
+      },
+      {
+        "id": 4998990559,
+        "external_id": "68e1414fdb9c54",
+        "sync_product_id": 395189951,
+        "name": "Farfalla Cosmica - AS Colour 1120 - Beanie / Red",
+        "synced": true,
+        "variant_id": 20492,
+        "main_category_id": 45,
+        "warehouse_product_id": null,
+        "warehouse_product_variant_id": null,
+        "retail_price": "14.95",
+        "sku": null,
+        "currency": "EUR",
+        "product": {
+          "variant_id": 20492,
+          "product_id": 809,
+          "image": "https://files.cdn.printful.com/products/809/20492_1726493281.jpg",
+          "name": "Fisherman Beanie | AS Colour 1120 (Red)"
+        },
+        "files": [
+          {
+            "id": 882515425,
+            "type": "default",
+            "hash": "be19ddf1943ed8a68951caf8dd32cb3a",
+            "url": "https://res.cloudinary.com/djbjepgzm/image/upload/v1759591995/onlyone_Farfalla%20Cosmica_beanie_scaled_1759591994.png",
+            "filename": "onlyone_Farfalla%20Cosmica_beanie_scaled_1759591994.png",
+            "mime_type": "image/png",
+            "size": 1824762,
+            "width": 1536,
+            "height": 1536,
+            "dpi": null,
+            "status": "ok",
+            "created": 1759591997,
+            "thumbnail_url": "https://files.cdn.printful.com/files/be1/be19ddf1943ed8a68951caf8dd32cb3a_thumb.png",
+            "preview_url": "https://files.cdn.printful.com/files/be1/be19ddf1943ed8a68951caf8dd32cb3a_preview.png",
+            "visible": true,
+            "is_temporary": false,
+            "message": "",
+            "options": [
+              {
+                "id": "auto_thread_color",
+                "value": true
+              }
+            ],
+            "stitch_count_tier": null
+          }
+        ],
+        "options": [
+          {
+            "id": "embroidery_type",
+            "value": "flat"
+          },
+          {
+            "id": "thread_colors",
+            "value": [
+              "#96A1A8",
+              "#000000"
+            ]
+          },
+          {
+            "id": "text_thread_colors",
+            "value": []
+          },
+          {
+            "id": "thread_colors_3d",
+            "value": []
+          }
+        ],
+        "is_ignored": false,
+        "size": null,
+        "color": "Red",
+        "availability_status": "active"
+      },
+      {
+        "id": 4998990604,
+        "external_id": "68e14150aa5074",
+        "sync_product_id": 395189951,
+        "name": "Farfalla Cosmica - AS Colour 1120 - Beanie / Walnut",
+        "synced": true,
+        "variant_id": 20489,
+        "main_category_id": 45,
+        "warehouse_product_id": null,
+        "warehouse_product_variant_id": null,
+        "retail_price": "14.95",
+        "sku": null,
+        "currency": "EUR",
+        "product": {
+          "variant_id": 20489,
+          "product_id": 809,
+          "image": "https://files.cdn.printful.com/products/809/20489_1726493281.jpg",
+          "name": "Fisherman Beanie | AS Colour 1120 (Walnut)"
+        },
+        "files": [
+          {
+            "id": 882515425,
+            "type": "default",
+            "hash": "be19ddf1943ed8a68951caf8dd32cb3a",
+            "url": "https://res.cloudinary.com/djbjepgzm/image/upload/v1759591995/onlyone_Farfalla%20Cosmica_beanie_scaled_1759591994.png",
+            "filename": "onlyone_Farfalla%20Cosmica_beanie_scaled_1759591994.png",
+            "mime_type": "image/png",
+            "size": 1824762,
+            "width": 1536,
+            "height": 1536,
+            "dpi": null,
+            "status": "ok",
+            "created": 1759591997,
+            "thumbnail_url": "https://files.cdn.printful.com/files/be1/be19ddf1943ed8a68951caf8dd32cb3a_thumb.png",
+            "preview_url": "https://files.cdn.printful.com/files/be1/be19ddf1943ed8a68951caf8dd32cb3a_preview.png",
+            "visible": true,
+            "is_temporary": false,
+            "message": "",
+            "options": [
+              {
+                "id": "auto_thread_color",
+                "value": true
+              }
+            ],
+            "stitch_count_tier": null
+          }
+        ],
+        "options": [
+          {
+            "id": "embroidery_type",
+            "value": "flat"
+          },
+          {
+            "id": "thread_colors",
+            "value": [
+              "#96A1A8",
+              "#000000"
+            ]
+          },
+          {
+            "id": "text_thread_colors",
+            "value": []
+          },
+          {
+            "id": "thread_colors_3d",
+            "value": []
+          }
+        ],
+        "is_ignored": false,
+        "size": null,
+        "color": "Walnut",
+        "availability_status": "active"
+      }
+    ]
+  }
+}

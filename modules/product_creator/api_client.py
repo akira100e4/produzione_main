@@ -22,7 +22,7 @@ class PrintfulAPIClient:
         self.headers = {
             "Authorization": f"Bearer {api_key}",
             "Content-Type": "application/json",
-            "X-PF-Store-Id": store_id
+            #!/ "X-PF-Store-Id": store_id
         }
         self.last_request_time = 0
         self.min_request_interval = 1.0  # Rate limiting: max 1 req/sec
